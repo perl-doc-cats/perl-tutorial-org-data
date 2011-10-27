@@ -83,4 +83,4 @@
 * http://docstore.mik.ua/orelly/perl/advprog/index.htm
 * http://docstore.mik.ua/orelly/perl/cookbook/index.htm
 
-<!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->WebWeb
+<!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
