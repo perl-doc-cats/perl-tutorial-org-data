@@ -91,4 +91,10 @@
 * http://docstore.mik.ua/orelly/perl/cookbook/index.htm
 
 <!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
-Web
+
+# TODO
+
+* convert the tables into templates, possibly with [field](http://ikiwiki.info/plugins/contrib/field/) and [ymlfront](http://ikiwiki.info/plugins/contrib/ymlfront/) plugins
+* country flags for the language?
+* figure out how to structure tutorials/howtos written on this site
+
