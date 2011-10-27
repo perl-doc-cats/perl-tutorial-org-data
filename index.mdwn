@@ -6,9 +6,27 @@ All wikis are supposed to have a [[SandBox]], so this one does too.
 
 This wiki is powered by [[ikiwiki]].
 
-
+List of Tutorials
 <table>
     <tr>
-        <td>Foo</td>
+        <th>Name</th>
+        <th>Type</th>
+        <th>Size</th>
+        <th>Status</th>
+        <th>Last Updated</th>
+    </tr>
+    <tr>
+        <td>[Gabor Szabo's Modern Perl Tutorial](http://szabgab.com/perl_tutorial.html)</td>
+        <td>Web + Video</td>
+        <td>Medium</td>
+        <th>In Progress - Just Beginning</th>
+        <td>2011.10.27</td>
+    </tr>
+    <tr>
+        <td>[Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)</td>
+        <td>Web</td>
+        <td>Small</td>
+        <td>Complete</td>
+        <td>2011.07.31</td>
     </tr>
 </table>
