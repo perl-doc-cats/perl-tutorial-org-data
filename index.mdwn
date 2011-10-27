@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <th>Name</th>
+        <th colspan="2">Name</th>
         <th>Type</th>
         <th>Size</th>
         <th>Status</th>
@@ -8,6 +8,7 @@
     </tr>
     <tr>
         <td><a href="http://szabgab.com/perl_tutorial.html">Gabor Szabo's Modern Perl Tutorial</a></td>
+        <td>[[!plusone url="http://szabgab.com/perl_tutorial.html"]]</td>
         <td>Web + Video</td>
         <td>Medium</td>
         <td>In Progress - Just Beginning</td>
@@ -15,6 +16,7 @@
     </tr>
     <tr>
         <td><a href="http://qntm.org/files/perl/perl.html">Learn Perl in about 2 hours 30 minutes</a></td>
+        <td>[[!plusone url="http://qntm.org/files/perl/perl.html"]]</td>
         <td>Web</td>
         <td>Small</td>
         <td>Complete</td>
