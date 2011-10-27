@@ -16,17 +16,19 @@ List of Tutorials
         <th>Last Updated</th>
     </tr>
     <tr>
-        <td>[[http://szabgab.com/perl_tutorial.html|Gabor Szabo's Modern Perl Tutorial]]</td>
+        <td>[Gabor Szabo's Modern Perl Tutorial](http://szabgab.com/perl_tutorial.html)</td>
         <td>Web + Video</td>
         <td>Medium</td>
         <th>In Progress - Just Beginning</th>
         <td>2011.10.27</td>
     </tr>
     <tr>
-        <td>[[http://qntm.org/files/perl/perl.html|Learn Perl in about 2 hours 30 minutes]]</td>
+        <td>[Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)</td>
         <td>Web</td>
         <td>Small</td>
         <td>Complete</td>
         <td>2011.07.31</td>
     </tr>
 </table>
+
+[Learn Perl in about 2 hours 30 minutes](http://qntm.org/files/perl/perl.html)
