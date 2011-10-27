@@ -6,6 +6,7 @@
         <th>Perl</th>
         <th>Covers</th>
         <th>Size</th>
+        <th>Lang</th>
         <th>Status</th>
         <th>Last Updated</th>
     </tr>
@@ -16,6 +17,7 @@
         <td>5.10</td>
         <td>Perl Basics</td>
         <td>Medium</td>
+        <td>EN</td>
         <td>In Progress - Just Beginning</td>
         <td>2011.10.27</td>
     </tr>
@@ -26,6 +28,7 @@
         <td>5.8</td>
         <td>Perl Basics</td>
         <td>Small</td>
+        <td>EN</td>
         <td>Complete</td>
         <td>2011.07.31</td>
     </tr>
@@ -41,6 +44,7 @@
         <th>Perl</th>
         <th>Covers</th>
         <th>Size</th>
+        <th>Lang</th>
         <th>Status</th>
         <th>Last Updated</th>
     </tr>
@@ -51,6 +55,7 @@
         <td>4</td>
         <td>Perl Basics</td>
         <td>Large</td>
+        <td>EN</td>
         <td>Complete</td>
         <td>1990</td>
     </tr>
@@ -61,6 +66,8 @@
 # Uncurated Tutorials
 <!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
 
+* https://www.perl-community.de/bat/content/view/perl_tutorials
+* http://wiki.perl-community.de/Wissensbasis/PerlTutorials
 * http://shop.oreilly.com/product/9780596000271.do
 * http://shop.oreilly.com/product/9780596004927.do
 * http://amzn.com/0201795264
@@ -84,3 +91,4 @@
 * http://docstore.mik.ua/orelly/perl/cookbook/index.htm
 
 <!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
+Web
