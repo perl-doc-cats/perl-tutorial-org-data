@@ -26,6 +26,7 @@ rec_tutorials:
   lang: EN
   status: In Progress - Just Beginning
   lastupdate: 2011.10.27
+
 """]]
 
 [[!ftemplate  id="tutorial_row_yml" ]]
