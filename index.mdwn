@@ -14,39 +14,42 @@
         <th>Status</th>
         <th>Last Updated</th>
     </tr>
-    <tr>
-        <td><a href="http://szabgab.com/perl_tutorial.html">Gabor Szabo's Modern Perl Tutorial</a></td>
-        <td>[[!plusone url="http://szabgab.com/perl_tutorial.html"]]</td>
-        <td>Web + Video</td>
-        <td>5.10</td>
-        <td>Perl Basics</td>
-        <td>Medium</td>
-        <td>EN</td>
-        <td>In Progress - Just Beginning</td>
-        <td>2011.10.27</td>
-    </tr>
-    <tr>
-        <td><a href="http://qntm.org/files/perl/perl.html">Learn Perl in about 2 hours 30 minutes</a></td>
-        <td>[[!plusone url="http://qntm.org/files/perl/perl.html"]]</td>
-        <td>Web</td>
-        <td>5.8</td>
-        <td>Perl Basics</td>
-        <td>Small</td>
-        <td>EN</td>
-        <td>Complete</td>
-        <td>2011.07.31</td>
-    </tr>
-    <tr>
-        <td><a href="http://onyxneon.com/books/modern_perl/">Chromatic's Modern Perl Book</a></td>
-        <td>[[!plusone url="http://onyxneon.com/books/modern_perl/"]]</td>
-        <td>PDF</td>
-        <td>5.10</td>
-        <td>Perl Basics</td>
-        <td>Large</td>
-        <td>EN</td>
-        <td>Complete</td>
-        <td>2010.10</td>
-    </tr>
+
+[[!template  id=tutorial_row
+ url="http://szabgab.com/perl_tutorial.html"
+ name="Gabor Szabo's Modern Perl Tutorial"
+ type="Web + Video"
+ version="5.10"
+ covers="Perl Basics"
+ size="Medium"
+ lang="EN"
+ status="In Progress - Just Beginning"
+ lastupdate="2011.10.27"
+]]
+
+[[!template  id=tutorial_row
+ url="http://qntm.org/files/perl/perl.html"
+ name="Learn Perl in about 2 hours 30 minutes"
+ type="Web"
+ version="5.8"
+ covers="Perl Basics"
+ size="Small"
+ lang="EN"
+ status="Complete"
+ lastupdate="2011.07.31"
+]]
+
+[[!template  id=tutorial_row
+ url="http://onyxneon.com/books/modern_perl/"
+ name="Chromatic's Modern Perl Book"
+ type="PDF"
+ version="5.10"
+ covers="Perl Basics"
+ size="Large"
+ lang="EN"
+ status="Complete"
+ lastupdate="2010.10"
+]]
 
 <!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
     <tr>
@@ -62,17 +65,20 @@
         <th>Status</th>
         <th>Last Updated</th>
     </tr>
-    <tr>
-        <td><a rel="nofollow" href="http://www.scs.leeds.ac.uk/Perl/start.html">University of Leeds Perl Tutorial</a></td>
-        <td>[[!plusone url="http://www.scs.leeds.ac.uk/Perl/start.html"]]</td>
-        <td>Web</td>
-        <td>4</td>
-        <td>Perl Basics</td>
-        <td>Large</td>
-        <td>EN</td>
-        <td>Complete</td>
-        <td>1990</td>
-    </tr>
+
+[[!template  id=tutorial_row
+ legacy="1"
+ url="http://www.scs.leeds.ac.uk/Perl/start.html"
+ name="University of Leeds Perl Tutorial"
+ type="Web"
+ version="4"
+ covers="Perl Basics"
+ size="Large"
+ lang="EN"
+ status="Complete"
+ lastupdate="1990"
+]]
+
 </table>
 <!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
 
@@ -125,3 +131,4 @@
 * figure out how to structure tutorials/howtos written on this site
 * add twitter button
 * add reddit button
+Complete/th
