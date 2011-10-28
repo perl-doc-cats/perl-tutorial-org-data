@@ -36,6 +36,17 @@
         <td>Complete</td>
         <td>2011.07.31</td>
     </tr>
+    <tr>
+        <td><a href="http://onyxneon.com/books/modern_perl/">Chromatic's Modern Perl Book</a></td>
+        <td>[[!plusone url="http://onyxneon.com/books/modern_perl/"]]</td>
+        <td>PDF</td>
+        <td>5.10</td>
+        <td>Perl Basics</td>
+        <td>Large</td>
+        <td>EN</td>
+        <td>Complete</td>
+        <td>2010.10</td>
+    </tr>
 
 <!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
     <tr>
@@ -103,3 +114,4 @@
 * add twitter button
 * add reddit button
 2
+/td/td
