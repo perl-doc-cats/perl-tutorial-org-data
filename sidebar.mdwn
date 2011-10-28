@@ -1,0 +1,16 @@
+[[!map pages="
+
+*
+ and
+
+!*/discussion and !recentchanges and !shortcuts and !sidebar
+
+and 
+
+!ikiwiki/* and !tinita*
+
+and 
+
+!smileys* and !wikiicons* and !templates* and !*.css and !*.ico
+
+"]]
