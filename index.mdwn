@@ -16,16 +16,27 @@
     </tr>
 
 [[!ymlfront  data="""
+---
 rec_tutorials:
-- url: http://szabgab.com/perl_tutorial.html
-  name: Gabor Szabo's Modern Perl Tutorial
-  type: Web + Video
-  version: 5.10
-  covers: Perl Basics
-  size: Medium
-  lang: EN
-  status: In Progress - Just Beginning
-  lastupdate: 2011.10.27
+  - covers: Perl Basics
+    lang: EN
+    lastupdate: 2011.10.27
+    name: Gabor Szabo's Modern Perl Tutorial
+    size: Medium
+    status: 'In Progress - Just Beginning'
+    type: Web + Video
+    url: http://szabgab.com/perl_tutorial.html
+    version: 5.10
+  - covers: Perl Basics
+    lang: EN
+    lastupdate: 2011.10.27
+    name: Gabor Szabo's Modern Perl Tutorial
+    size: Medium
+    status: 'In Progress - Just Beginning'
+    type: Web + Video
+    url: http://szabgab.com/perl_tutorial.html
+    version: 5.10
+
 """]]
 
 [[!ftemplate  id="tutorial_row_yml" ]]
