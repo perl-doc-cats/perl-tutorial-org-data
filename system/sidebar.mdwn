@@ -3,13 +3,13 @@
 *
  and
 
-!*/discussion and !recentchanges and !shortcuts and !sidebar
+!*/discussion and !recentchanges and !shortcuts and !system/sidebar
 
-and 
+and
 
 !ikiwiki/* and !tinita*
 
-and 
+and
 
 !smileys* and !wikiicons* and !templates* and !*.css and !*.ico
 
