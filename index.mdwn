@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <th colspan="9"><h1>Recommended Tutorials</h1></th>
+        <td colspan="9"><h1>Recommended Tutorials</h1></td>
     </tr>
     <tr>
         <th colspan="2">Name</th>
@@ -37,7 +37,7 @@
 
 <!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
     <tr>
-        <th colspan="9"><h1>Legacy Tutorials</h1></th>
+        <td colspan="9"><h1>Legacy Tutorials</h1></td>
     </tr>
     <tr>
         <th colspan="2">Name</th>
