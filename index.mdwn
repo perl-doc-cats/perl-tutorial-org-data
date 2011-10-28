@@ -51,6 +51,18 @@
  lastupdate="2010.10"
 ]]
 
+[[!template  id=tutorial_row
+ url="http://www.shmuelfomberg.com/perlhebtut/"
+ name="Hebrew Perl Tutorial"
+ type="Web + PDF"
+ version="5.10"
+ covers="Perl Basics"
+ size="Large"
+ lang="HE"
+ status="Complete"
+ lastupdate="2008.05"
+]]
+
 <!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
     <tr>
         <td colspan="9"><h1>Legacy Tutorials</h1></td>
@@ -130,7 +142,6 @@
 * http://www.perl.org/books/beginning-perl/
 * http://www.perltutorial.org/
 * http://www.shlomifish.org/lecture/Perl/Newbies/
-* http://www.shmuelfomberg.com/perlhebtut/
 * http://www.sthomas.net/roberts-perl-tutorial.htm
 * http://www.tizag.com/perlT/
 
