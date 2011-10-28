@@ -4,3 +4,17 @@ The wiki has two main repositories:
 
 * [perltut-base](https://github.com/Perl-Tutorial-Curators/perltut-base) - contains the wiki configuration as well as any plugins
 * [perltut-data](https://github.com/Perl-Tutorial-Curators/perltut-data) - contains the wiki data itself
+
+----
+
+Setup process:
+
+1. clone git repo
+1. follow instructions here: [[http://ikiwiki.info/install/]]
+1. create a user called `perltuthub`, then `su` to it and `cd ~`
+1. setup .ssh dir
+1. git clone git@github.com:Perl-Tutorial-Curators/perltut-base.git .
+1. git clone git@github.com:Perl-Tutorial-Curators/perltut-data.git PerlTutorialHub
+1. ikiwiki -setup ~/PerlTutorialHub.setup
+1. point web server at `public_html/PerlTutorialHub`
+1. set up empty cgi handler to execute ikiwiki.cgi ELF file
