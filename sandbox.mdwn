@@ -28,5 +28,6 @@ Bulleted list
 
 * *item*
 * item
+* moo
 
 [[ikiwiki/WikiLink]]
