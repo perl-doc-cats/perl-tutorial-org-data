@@ -97,4 +97,7 @@
 * convert the tables into templates, possibly with [field](http://ikiwiki.info/plugins/contrib/field/) and [ymlfront](http://ikiwiki.info/plugins/contrib/ymlfront/) plugins
 * country flags for the language?
 * figure out how to structure tutorials/howtos written on this site
+* add twitter button
+* add reddit button
 
+/th
