@@ -15,7 +15,7 @@
         <th>Last Updated</th>
     </tr>
 
----
+[[!ymlfront  data="""
 rec_tutorials:
 - url: http://szabgab.com/perl_tutorial.html
   name: Gabor Szabo's Modern Perl Tutorial
@@ -26,7 +26,7 @@ rec_tutorials:
   lang: EN
   status: In Progress - Just Beginning
   lastupdate: 2011.10.27
----
+"""]]
 
 [[!ftemplate  id="tutorial_row_yml" ]]
 
