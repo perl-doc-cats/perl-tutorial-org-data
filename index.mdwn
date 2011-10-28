@@ -68,6 +68,19 @@
 
 [[!template  id=tutorial_row
  legacy="1"
+ url="http://perl-seiten.privat.t-online.de"
+ name="Eike Grote's German Perl Tutorial"
+ type="Web"
+ version="5.8.6"
+ covers="Perl Basics"
+ size="Large"
+ lang="DE"
+ status="Complete"
+ lastupdate="2005.05"
+]]
+
+[[!template  id=tutorial_row
+ legacy="1"
  url="http://www.scs.leeds.ac.uk/Perl/start.html"
  name="University of Leeds Perl Tutorial"
  type="Web"
@@ -101,7 +114,6 @@
 * http://perl-begin.org/
 * http://perl-begin.org/tutorials/modern-perl/
 * http://perl-begin.org/tutorials/perl-for-newbies/
-* http://perl-seiten.privat.t-online.de/
 * http://perldoc.perl.org/index-tutorials.html (those should be checked with the git repo to see how old they are realistically)
 * http://perldoc.perl.org/perlintro.html
 * http://shop.oreilly.com/product/0636920018452.do
