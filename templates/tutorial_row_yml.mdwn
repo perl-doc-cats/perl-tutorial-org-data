@@ -1,0 +1,14 @@
+
+<TMPL_LOOP rec_tutorials>
+    <tr>
+        <td><a <TMPL_IF legacy>rel="nofollow"</TMPL_IF> href="<TMPL_VAR url>"><TMPL_VAR name></a></td>
+        <td>[[!plusone url="<TMPL_VAR url>"]]</td>
+        <td><TMPL_VAR type></td>
+        <td><TMPL_VAR version></td>
+        <td><TMPL_VAR covers></td>
+        <td><TMPL_VAR size></td>
+        <td><TMPL_VAR lang></td>
+        <td><TMPL_VAR status></td>
+        <td><TMPL_VAR lastupdate></td>
+    </tr>
+</TMPL_LOOP>

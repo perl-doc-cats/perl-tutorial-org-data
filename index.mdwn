@@ -15,17 +15,20 @@
         <th>Last Updated</th>
     </tr>
 
-[[!template  id=tutorial_row
- url="http://szabgab.com/perl_tutorial.html"
- name="Gabor Szabo's Modern Perl Tutorial"
- type="Web + Video"
- version="5.10"
- covers="Perl Basics"
- size="Medium"
- lang="EN"
- status="In Progress - Just Beginning"
- lastupdate="2011.10.27"
-]]
+---
+rec_tutorials:
+- url: http://szabgab.com/perl_tutorial.html
+  name: Gabor Szabo's Modern Perl Tutorial
+  type: Web + Video
+  version: 5.10
+  covers: Perl Basics
+  size: Medium
+  lang: EN
+  status: In Progress - Just Beginning
+  lastupdate: 2011.10.27
+---
+
+[[!ftemplate  id="tutorial_row_yml" ]]
 
 [[!template  id=tutorial_row
  url="http://qntm.org/files/perl/perl.html"
