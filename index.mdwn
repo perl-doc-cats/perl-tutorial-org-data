@@ -1,5 +1,7 @@
-# Recommended Tutorials
 <table>
+    <tr>
+        <th colspan="9"><h1>Recommended Tutorials</h1></th>
+    </tr>
     <tr>
         <th colspan="2">Name</th>
         <th>Type</th>
@@ -32,12 +34,11 @@
         <td>Complete</td>
         <td>2011.07.31</td>
     </tr>
-</table>
 
-
-# Legacy Tutorials
 <!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
-<table>
+    <tr>
+        <th colspan="9"><h1>Legacy Tutorials</h1></th>
+    </tr>
     <tr>
         <th colspan="2">Name</th>
         <th>Type</th>
@@ -99,3 +100,4 @@
 * figure out how to structure tutorials/howtos written on this site
 * add twitter button
 * add reddit button
+/th
