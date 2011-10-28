@@ -99,5 +99,3 @@
 * figure out how to structure tutorials/howtos written on this site
 * add twitter button
 * add reddit button
-
-/th
