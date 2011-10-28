@@ -1,2 +1,13 @@
+[[!orphans pages="
 
-[[!orphans pages="*"]]
+*
+
+and
+
+!recentchanges and !sidebar and !system/orphans and !system/sitemap and !templates/*
+
+and
+
+!*.ico and !*.js and !*.css and !*.gif
+
+"]]
