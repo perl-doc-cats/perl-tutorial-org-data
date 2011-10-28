@@ -3,7 +3,7 @@
 *
  and
 
-!*/discussion and !recentchanges and !shortcuts and !system/sidebar
+!*/discussion and !recentchanges and !shortcuts and !sidebar
 
 and
 
