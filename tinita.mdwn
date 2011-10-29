@@ -1,1 +1,1 @@
-<http://perlpunks.de/>
+<https://github.com/perlpunk>
