@@ -158,6 +158,7 @@
 * http://www.shlomifish.org/lecture/Perl/Newbies/
 * http://www.sthomas.net/roberts-perl-tutorial.htm
 * http://www.tizag.com/perlT/
+* http://perltraining.com.au/notes/perlcgi.pdf
 
 <!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
 
