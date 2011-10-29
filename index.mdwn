@@ -174,3 +174,4 @@ tutorials:
 * country flags for the language?
 * figure out how to structure tutorials/howtos written on this site
 * add reddit button
+* a linkable button? "Lean Perl - Your Way" (see promotejs.com)
