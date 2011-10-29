@@ -16,77 +16,77 @@
         <th>Popularity</th>
     </tr>
 
-[[!template  id=tutorial_row
- url="http://www.modernperlbooks.com/mt/2011/10/modern-perl-the-book-2011-2012-edition-draft.html"
- name="Modern Perl: The Book 2011-2012"
- type="PDF"
- version="5.12"
- covers="Perl Basics"
- size="Large"
- lang="EN"
- status="Draft"
- lastupdate="2011.10.28"
-]]
+[[!ytemplate  id=tutorial_row yaml="""
+    url:        http://www.modernperlbooks.com/mt/2011/10/modern-perl-the-book-2011-2012-edition-draft.html
+    name:       "Modern Perl: The Book 2011-2012"
+    type:       PDF
+    version:    5.12
+    covers:     Perl Basics
+    size:       Large
+    lang:       EN
+    status:     Draft
+    lastupdate: 2011.10.28
+"""]]
 
-[[!template  id=tutorial_row
- url="http://szabgab.com/perl_tutorial.html"
- name="Gabor Szabo's Modern Perl Tutorial"
- type="Web + Video"
- version="5.10"
- covers="Perl Basics"
- size="Medium"
- lang="EN"
- status="In Progress - Just Beginning"
- lastupdate="2011.10.28"
-]]
+[[!ytemplate  id=tutorial_row yaml="""
+    url:        http://szabgab.com/perl_tutorial.html
+    name:       Gabor Szabo's Modern Perl Tutorial
+    type:       Web + Video
+    version:    5.10
+    covers:     Perl Basics
+    size:       Medium
+    lang:       EN
+    status:     In Progress - Just Beginning
+    lastupdate: 2011.10.28
+"""]]
 
-[[!template  id=tutorial_row
- url="http://qntm.org/files/perl/perl.html"
- name="Learn Perl in about 2 hours 30 minutes"
- type="Web"
- version="5.8"
- covers="Perl Basics"
- size="Small"
- lang="EN"
- status="Complete"
- lastupdate="2011.07.31"
-]]
+[[!ytemplate  id=tutorial_row yaml="""
+    url:        http://qntm.org/files/perl/perl.html
+    name:       Learn Perl in about 2 hours 30 minutes
+    type:       Web
+    version:    5.8
+    covers:     Perl Basics
+    size:       Small
+    lang:       EN
+    status:     Complete
+    lastupdate: 2011.07.31
+"""]]
 
-[[!template  id=tutorial_row
- url="http://onyxneon.com/books/modern_perl/"
- name="Modern Perl: The Book"
- type="PDF"
- version="5.10"
- covers="Perl Basics"
- size="Large"
- lang="EN"
- status="Complete"
- lastupdate="2010.10"
-]]
+[[!ytemplate  id=tutorial_row yaml="""
+    url:        http://onyxneon.com/books/modern_perl/
+    name:       "Modern Perl: The Book"
+    type:       PDF
+    version:    5.10
+    covers:     Perl Basics
+    size:       Large
+    lang:       EN
+    status:     Complete
+    lastupdate: 2010.10
+"""]]
 
-[[!template  id=tutorial_row
- url="http://www.shmuelfomberg.com/perlhebtut/"
- name="Hebrew Perl Tutorial"
- type="Web + PDF"
- version="5.10"
- covers="Perl Basics"
- size="Large"
- lang="HE"
- status="Complete"
- lastupdate="2008.05"
-]]
+[[!ytemplate  id=tutorial_row yaml="""
+    url:        http://www.shmuelfomberg.com/perlhebtut/
+    name:       Hebrew Perl Tutorial
+    type:       Web + PDF
+    version:    5.10
+    covers:     Perl Basics
+    size:       Large
+    lang:       HE
+    status:     Complete
+    lastupdate: 2008.05
+"""]]
 
-[[!template  id=tutorial_row
- url="http://hop.perl.plover.com"
- name="Higher-Order Perl"
- type="PDF + Book"
- version="5.8.6"
- covers="Very Advanced Techniques"
- size="Large"
- lang="EN"
- status="Complete"
- lastupdate="2005.05"
-]]
+[[!ytemplate  id=tutorial_row yaml="""
+    url:        http://hop.perl.plover.com
+    name:       Higher-Order Perl
+    type:       PDF + Book
+    version:    5.8.6
+    covers:     Very Advanced Techniques
+    size:       Large
+    lang:       EN
+    status:     Complete
+    lastupdate: 2005.05
+"""]]
 
 
 
@@ -106,31 +106,31 @@
         <th>Popularity</th>
     </tr>
 
-[[!template  id=tutorial_row
- legacy="1"
- url="http://perl-seiten.privat.t-online.de"
- name="Eike Grote's German Perl Tutorial"
- type="Web"
- version="5.8.6"
- covers="Perl Basics"
- size="Large"
- lang="DE"
- status="Complete"
- lastupdate="2005.05"
-]]
+[[!ytemplate  id=tutorial_row yaml="""
+    legacy:     1
+    url:        http://perl-seiten.privat.t-online.de
+    name:       Eike Grote's German Perl Tutorial
+    type:       Web
+    version:    5.8.6
+    covers:     Perl Basics
+    size:       Large
+    lang:       DE
+    status:     Complete
+    lastupdate: 2005.05
+"""]]
 
-[[!template  id=tutorial_row
- legacy="1"
- url="http://www.scs.leeds.ac.uk/Perl/start.html"
- name="University of Leeds Perl Tutorial"
- type="Web"
- version="4"
- covers="Perl Basics"
- size="Large"
- lang="EN"
- status="Complete"
- lastupdate="1990"
-]]
+[[!ytemplate  id=tutorial_row yaml="""
+    legacy:     1
+    url:        http://www.scs.leeds.ac.uk/Perl/start.html
+    name:       University of Leeds Perl Tutorial
+    type:       Web
+    version:    4
+    covers:     Perl Basics
+    size:       Large
+    lang:       EN
+    status:     Complete
+    lastupdate: 1990
+"""]]
 
 </table>
 <!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
