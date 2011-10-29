@@ -16,8 +16,10 @@
         <th>Popularity</th>
     </tr>
 
-[[!ytemplate  id=tutorial_row yaml="""
-    url:        http://www.modernperlbooks.com/mt/2011/10/modern-perl-the-book-2011-2012-edition-draft.html
+[[!ytemplate  id=tutorial_rows yaml="""
+tutorials:
+
+-   url:        http://www.modernperlbooks.com/mt/2011/10/modern-perl-the-book-2011-2012-edition-draft.html
     name:       "Modern Perl: The Book 2011-2012"
     type:       PDF
     version:    5.12
@@ -26,10 +28,8 @@
     lang:       EN
     status:     Draft
     lastupdate: 2011.10.28
-"""]]
 
-[[!ytemplate  id=tutorial_row yaml="""
-    url:        http://szabgab.com/perl_tutorial.html
+-   url:        http://szabgab.com/perl_tutorial.html
     name:       Gabor Szabo's Modern Perl Tutorial
     type:       Web + Video
     version:    5.10
@@ -38,10 +38,8 @@
     lang:       EN
     status:     Just Beginning
     lastupdate: 2011.10.28
-"""]]
 
-[[!ytemplate  id=tutorial_row yaml="""
-    url:        http://qntm.org/files/perl/perl.html
+-   url:        http://qntm.org/files/perl/perl.html
     name:       Learn Perl in about 2 hours 30 minutes
     type:       Web
     version:    5.8
@@ -50,10 +48,8 @@
     lang:       EN
     status:     Complete
     lastupdate: 2011.07.31
-"""]]
 
-[[!ytemplate  id=tutorial_row yaml="""
-    url:        http://onyxneon.com/books/modern_perl/
+-   url:        http://onyxneon.com/books/modern_perl/
     name:       "Modern Perl: The Book"
     type:       PDF
     version:    5.10
@@ -62,10 +58,8 @@
     lang:       EN
     status:     Complete
     lastupdate: 2010.10
-"""]]
 
-[[!ytemplate  id=tutorial_row yaml="""
-    url:        http://www.shmuelfomberg.com/perlhebtut/
+-   url:        http://www.shmuelfomberg.com/perlhebtut/
     name:       Hebrew Perl Tutorial
     type:       Web + PDF
     version:    5.10
@@ -74,10 +68,8 @@
     lang:       HE
     status:     Complete
     lastupdate: 2008.05
-"""]]
 
-[[!ytemplate  id=tutorial_row yaml="""
-    url:        http://hop.perl.plover.com
+-   url:        http://hop.perl.plover.com
     name:       Higher-Order Perl
     type:       PDF + Book
     version:    5.8.6
@@ -86,6 +78,7 @@
     lang:       EN
     status:     Complete
     lastupdate: 2005.05
+
 """]]
 
 
@@ -106,9 +99,12 @@
         <th>Popularity</th>
     </tr>
 
-[[!ytemplate  id=tutorial_row yaml="""
-    legacy:     1
-    url:        http://perl-seiten.privat.t-online.de
+
+[[!ytemplate  id=tutorial_rows yaml="""
+legacy:         1
+tutorials:
+
+-   url:        http://perl-seiten.privat.t-online.de
     name:       Eike Grote's German Perl Tutorial
     type:       Web
     version:    5.8.6
@@ -117,11 +113,8 @@
     lang:       DE
     status:     Complete
     lastupdate: 2005.05
-"""]]
 
-[[!ytemplate  id=tutorial_row yaml="""
-    legacy:     1
-    url:        http://www.scs.leeds.ac.uk/Perl/start.html
+-   url:        http://www.scs.leeds.ac.uk/Perl/start.html
     name:       University of Leeds Perl Tutorial
     type:       Web
     version:    4
@@ -130,6 +123,7 @@
     lang:       EN
     status:     Complete
     lastupdate: 1990
+
 """]]
 
 </table>
