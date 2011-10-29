@@ -54,7 +54,7 @@
 
 [[!template  id=tutorial_row
  url="http://onyxneon.com/books/modern_perl/"
- name="Chromatic's Modern Perl Book"
+ name="Modern Perl: The Book"
  type="PDF"
  version="5.10"
  covers="Perl Basics"
