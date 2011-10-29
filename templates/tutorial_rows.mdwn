@@ -37,4 +37,3 @@
     </TMPL_LOOP>
 
 </TMPL_IF>
-Tweet
