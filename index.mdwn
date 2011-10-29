@@ -36,7 +36,7 @@
     covers:     Perl Basics
     size:       Medium
     lang:       EN
-    status:     In Progress - Just Beginning
+    status:     Just Beginning
     lastupdate: 2011.10.28
 """]]
 
