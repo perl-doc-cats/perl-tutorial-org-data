@@ -1,0 +1,16 @@
+<TMPL_LOOP tutorials>
+    <tr>
+        <td><a <TMPL_IF legacy>rel="nofollow"</TMPL_IF> href="<TMPL_VAR url>"><TMPL_VAR name></a></td>
+        <td><TMPL_VAR type></td>
+        <td><TMPL_VAR version></td>
+        <td><TMPL_VAR covers></td>
+        <td><TMPL_VAR size></td>
+        <td><TMPL_VAR lang></td>
+        <td><TMPL_VAR status></td>
+        <td><TMPL_VAR lastupdate></td>
+        <td>
+            [[!plusone url="<TMPL_VAR url>"]]
+            <a href="https://twitter.com/share" class="twitter-share-button" data-url="<TMPL_VAR url>" data-text="I like this Perl tutorial!" data-count="horizontal">Tweet</a>
+        </td>
+    </tr>
+</TMPL_LOOP>
