@@ -7,7 +7,7 @@
 
 and
 
-!ikiwiki/* and !tinita*
+!ikiwiki/* and !tinita* and !users*
 
 and
 
