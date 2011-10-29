@@ -12,7 +12,7 @@
             <td><TMPL_VAR lastupdate></td>
             <td>
                 [[!plusone url="<TMPL_VAR url>"]]
-                <a href="https://twitter.com/share" class="twitter-share-button" data-url="<TMPL_VAR url>" data-text="I like this Perl tutorial!" data-count="horizontal">Tweet</a>
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="<TMPL_VAR url>" data-text="On http://perl-tutorial.org I found this Perl tutorial!" data-count="horizontal">Tweet</a>
             </td>
         </tr>
     </TMPL_LOOP>
@@ -31,9 +31,10 @@
             <td><TMPL_VAR lastupdate></td>
             <td>
                 [[!plusone url="<TMPL_VAR url>"]]
-                <a href="https://twitter.com/share" class="twitter-share-button" data-url="<TMPL_VAR url>" data-text="I like this Perl tutorial!" data-count="horizontal">Tweet</a>
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="<TMPL_VAR url>" data-text="On http://perl-tutorial.org I found this Perl tutorial!" data-count="horizontal">Tweet</a>
             </td>
         </tr>
     </TMPL_LOOP>
 
 </TMPL_IF>
+Tweet
