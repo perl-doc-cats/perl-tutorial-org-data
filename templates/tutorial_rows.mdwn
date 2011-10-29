@@ -1,4 +1,4 @@
-<TMPL_LOOP tutorials>
+<TMPL_LOOP raw_tutorials>
     <tr>
         <td><a <TMPL_IF legacy>rel="nofollow"</TMPL_IF> href="<TMPL_VAR url>"><TMPL_VAR name></a></td>
         <td><TMPL_VAR type></td>
