@@ -1,0 +1,6 @@
+The quickest way to contact us is in the [[IRC channel|irc://irc.perl.org/perl-tutorials]]. If you do not have an IRC client, [[HydraIRC|http://www.hydrairc.com/]] is an excellent choice on windows, as is [[irssi|http://irssi.org/]] on Linux.
+
+If you need to contact us, for whatever reason, by other means, you can find more information on our user pages:
+
+* [[Mithaldu]] (Server and Software Administration)
+* [[tinita]] (Domain Administration and Design)
