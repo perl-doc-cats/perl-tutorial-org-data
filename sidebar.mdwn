@@ -1,9 +1,10 @@
+[[Tutorial Index|index]]
 [[!map pages="
 
 *
  and
 
-!*/discussion and !recentchanges and !shortcuts and !sidebar
+!*/discussion and !recentchanges and !shortcuts and !sidebar and !sandbox and !ikiwiki and !index
 
 and
 
