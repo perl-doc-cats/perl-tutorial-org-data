@@ -14,3 +14,5 @@ and
 !smileys* and !wikiicons* and !templates* and !*.css and !*.ico
 
 "]]
+
+[[Join us on IRC|irc://irc.perl.org/perl-tutorials]]
