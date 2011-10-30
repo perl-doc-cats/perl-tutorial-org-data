@@ -1,1 +1,1 @@
-[[!meta redir=sandbox]]
+[[!meta redir=/sandbox]]
