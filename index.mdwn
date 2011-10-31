@@ -1,8 +1,11 @@
-[[About]]
+Just as one of Perl's main tenets is "There Is More Than One Way To Do It", there is more than one way to learn it. Here we collect and organize the Perl tutorials available on the internet so you can easily find one that is fresh and suits your taste.
 
 <table>
     <tr>
-        <td colspan="9"><h1>Recommended Tutorials</h1></td>
+        <td colspan="9">
+            <h1>Recommended Tutorials</h1>
+            These are fresh tutorials that teach a modern style of Perl. They are great for newcomers to learn the language and for seasoned developers to refresh their knowlege or learn new tricks.
+        </td>
     </tr>
     <tr>
         <th>Name</th>
@@ -83,9 +86,11 @@ tutorials:
 
 
 
-<!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
     <tr>
-        <td colspan="9"><h1>Legacy Tutorials</h1></td>
+        <td colspan="9">
+            <h1>Legacy Tutorials</h1>
+            These are old Perl tutorials that are well written and good references for old versions, but should not be used by newcomers to learn Perl.
+        </td>
     </tr>
     <tr>
         <th>Name</th>
@@ -127,11 +132,20 @@ tutorials:
 """]]
 
 </table>
-<!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
 
+# TODO
+
+The site is not yet complete, here are some ideas of what we might want to do with it. Want to help? Stop by in the IRC channel or find out more about the code of the site on the [[about]] page.
+
+* country flags for the language?
+* figure out how to structure tutorials/howtos written on this site
+* add reddit button to the tutorial tables
+* a linkable button? "Lean Perl - Your Way" (see promotejs.com)
+* needs a proper design
 
 # Uncurated Tutorials
-<!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
+
+These tutorials have not yet been looked at in greater detail and thus remain unlinked. If you wish to help, please visit any of those links and add them with the appropiate information to one of the sections above.
 
 * http://amzn.com/0201795264
 * http://amzn.com/0321496949
@@ -165,13 +179,4 @@ tutorials:
 * http://www.shlomifish.org/lecture/Perl/Newbies/
 * http://www.sthomas.net/roberts-perl-tutorial.htm
 * http://www.tizag.com/perlT/
-* http://perltraining.com.au/notes/perlcgi.pdf
-
-<!-- MAKE SURE TO KEEP ALL LINKS IN THIS SECTION WITH rel="nofollow"! -->
-
-# TODO
-
-* country flags for the language?
-* figure out how to structure tutorials/howtos written on this site
-* add reddit button
-* a linkable button? "Lean Perl - Your Way" (see promotejs.com)
+* http://perltraining.com.au/notes/perlcgi.pdf/th
