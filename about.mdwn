@@ -9,7 +9,7 @@ The wiki has two main repositories:
 
 Setup process:
 
-1. clone git repo [[https://github.com/joeyh/ikiwiki]]
+1. clone git repo [[https://github.com/wchristian/ikiwiki]]
 1. follow instructions here: [[http://ikiwiki.info/install/]]
 1. create a user called `perltuthub`, then `su` to it and `cd ~`
 1. setup .ssh dir
