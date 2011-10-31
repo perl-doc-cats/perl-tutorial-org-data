@@ -17,3 +17,7 @@ and
 "]]
 
 [[Join us on IRC|irc://irc.perl.org/perl-tutorials]]
+
+[[!plusone url="http://perl-tutorial.org"]]
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://perl-tutorial.org" data-text="The newest and freshest Perl Tutorials!" data-count="horizontal">Tweet</a>
