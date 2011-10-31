@@ -4,7 +4,7 @@ Just as one of Perl's main tenets is "There Is More Than One Way To Do It", ther
     <tr>
         <td colspan="9">
             <h1>Recommended Tutorials</h1>
-            These are fresh tutorials that teach a modern style of Perl. They are great for newcomers to learn the language and for seasoned developers to refresh their knowlege or learn new tricks.
+            <p>These are fresh tutorials that teach a modern style of Perl. They are great for newcomers to learn the language and for seasoned developers to refresh their knowlege or learn new tricks.</p>
         </td>
     </tr>
     <tr>
@@ -89,7 +89,7 @@ tutorials:
     <tr>
         <td colspan="9">
             <h1>Legacy Tutorials</h1>
-            These are old Perl tutorials that are well written and good references for old versions, but should not be used by newcomers to learn Perl.
+            <p>These are old Perl tutorials that are well written and good references for old versions, but should not be used by newcomers to learn Perl.</p>
         </td>
     </tr>
     <tr>
