@@ -16,7 +16,7 @@ and
 
 "]]
 
-[[Join us on IRC|irc://irc.perl.org/perl-tutorials]]
+[[Join us on IRC|irc://irc.perl.org/perl-tutorial]]
 
 [[!plusone url="http://perl-tutorial.org"]]
 
