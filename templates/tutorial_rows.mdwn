@@ -1,3 +1,5 @@
+<tmpl_var escape=dump|html>
+
     <TMPL_LOOP raw_tutorials>
         <tr>
             <td><a <TMPL_IF ..legacy>rel="nofollow"</TMPL_IF> href="<TMPL_VAR url>"><TMPL_VAR name></a></td>
