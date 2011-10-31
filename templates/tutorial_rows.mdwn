@@ -1,4 +1,3 @@
-<tmpl_var escape=dump|html>
 
     <TMPL_LOOP raw_tutorials>
         <tr>
