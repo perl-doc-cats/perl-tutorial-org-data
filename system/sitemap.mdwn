@@ -4,6 +4,10 @@
 
 and
 
+!README.md
+
+and
+
 !*.js and !*.png and !*.gif and !*.css and !*.ico
 
 "]]

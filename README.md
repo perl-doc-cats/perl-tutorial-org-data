@@ -7,9 +7,9 @@ http://perl-tutorial.org
 Changes in here are automatically synched to the server whenever the wiki
 software is prompted to rebuild, meaning either:
 
+- a page is edited
 - `ikiwiki -setup ~/PerlTutorialHub.setup` is executed on the server
 - an admin user goes into `Preferences > Setup` and clicks `Save`
-- a page is edited (not entirely sure about this yet)
 
 Additionally any changes done on the wiki will be pushed to this repo. It is
 the actual database used by the wiki software to store page contents.
