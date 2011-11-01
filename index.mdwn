@@ -23,10 +23,10 @@ Just as one of Perl's main tenets is "There Is More Than One Way To Do It", ther
 tutorials:
 
 -   url:        http://learn.perl.org/
-    name:       "Learn Perl WebSite"
-    type:       web
-    version:    5
-    covers:     Installing Perl and Running your first script, also hosts the official PerlFAQ
+    name:       "Learn Perl Website"
+    type:       Web
+    version:    5.*
+    covers:     Installing Perl<br>First Steps<br>Official PerlFAQ
     size:       Medium
     lang:       EN
     status:     Complete
@@ -192,3 +192,4 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://perltraining.com.au/notes/perlcgi.pdf/
 * new p5p oo tut
 * perl faq
+Name
