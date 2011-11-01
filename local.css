@@ -34,6 +34,9 @@ input#searchbox {
 	padding-right: 16px;
 }
 
+span.parentlinks a {
+    color: lightgray;
+}
 
 #content, #comments, #footer {
 	margin: 1em 1em;
