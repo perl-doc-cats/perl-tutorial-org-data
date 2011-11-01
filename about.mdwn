@@ -2,8 +2,8 @@ This site is meant to be a publically editable and curated collection of Perl tu
 
 The wiki has two main repositories:
 
-* [perltut-base](https://github.com/Perl-Tutorial-Curators/perltut-base) - contains the wiki configuration as well as any plugins
-* [perltut-data](https://github.com/Perl-Tutorial-Curators/perltut-data) - contains the wiki data itself
+* [perltut-base](https://github.com/perl-doc-cats/perl-tutorial-org-base) - contains the wiki configuration as well as any plugins
+* [perltut-data](https://github.com/perl-doc-cats/perl-tutorial-org-data) - contains the wiki data itself
 
 ----
 
