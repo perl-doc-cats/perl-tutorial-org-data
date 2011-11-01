@@ -2,3 +2,166 @@ p {
     max-width: 35em;
     text-align: justify;
 }
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	color: black;
+	background: white;
+}
+
+.header {
+    padding-bottom: 30px;
+	margin: 50;
+	font-size: 140%;
+	font-weight: normal;
+	line-height: 1em;
+	display: block;
+	color: white;
+}
+#searchform {
+	position: absolute;
+	top: 0.5em;
+	right: 2em;
+}
+
+input#searchbox {
+	background: url(wikiicons/search-bg.gif) no-repeat;
+	background-color: #fff;
+	background-position: 100% 50%;
+	color: #000;
+	padding-right: 16px;
+}
+
+
+#content, #comments, #footer {
+	margin: 1em 1em;
+}
+
+a {
+	text-decoration: none;
+	color: #005a9c;
+}
+
+table.tut {
+    background-color: #bbbbbb;
+    border-spacing: 1px;
+}
+table.tut th {
+    background-color: #dddddd;
+    padding: 5px;
+}
+table.tut td {
+    background-color: white;
+    padding: 2px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.actions ul {
+	margin: 0;
+	padding: 3px .4em;
+	height: 1em;
+	list-style-type: none;
+}
+
+.actions li {
+	display: inline;
+	padding: .2em;
+}
+.pageheader .actions ul {
+	border-bottom: 1px solid #000;
+}
+.pageheader .actions ul {
+	border-style: none
+}
+.pageheader .actions {
+    background-color: #999999 ;
+    font-size: 120%;
+    float: left;
+
+	position: absolute;
+	bottom: 0;
+	right: 2em;
+	width: 100%;
+	text-align: right;
+	padding: 2px;
+    color: lightgray;
+}
+.pageheader .actions li a {
+    color: white;
+    text-decoration: none;
+    border-left: 1px solid #858585;
+    border-right: 1px solid #A2A2A2;
+}
+.pageheader .actions ul li {
+	margin: 0;
+	padding: .1em 1em 0 1em;
+	border-color: #666;
+	border-style: none none none solid;
+	border-width: 1px;
+}
+.pageheader .actions ul {
+	border-bottom: 1px solid #000;
+}
+.pageheader .actions ul {
+	border-style: none
+}
+.pageheader {
+	margin: 0;
+	padding: 1em 2em;
+	position: relative;
+	overflow: hidden;
+    background-color: #004065;
+	border-color: black;
+	border-style: none none solid none;
+	border-width: 1px;
+}
+
+.pageheader .header {
+	float: left;
+	font-size: 160%;
+}
+
+
+.pageheader .actions {
+    background-color: #999999 ;
+    font-size: 120%;
+    float: left;
+
+	position: absolute;
+	bottom: 0;
+	right: 2em;
+	width: 100%;
+	text-align: right;
+	padding: 2px;
+    color: lightgray;
+}
+.pageheader .actions li a {
+    color: white;
+    text-decoration: none;
+    border-left: 1px solid #858585;
+    border-right: 1px solid #A2A2A2;
+}
+
+.sidebar {
+	width: 20ex;
+	float: right;
+	margin-left: 4px;
+	margin-bottom: 4px;
+	margin-top: -1px;
+	padding: 0ex 2ex;
+	color: black !important;
+}
+.sidebar ul {
+	list-style-type: none;
+	margin-left: -10px;
+}
+.sidebar {
+	border: none;
+	border-left: 1px dotted black;
+	margin-top: 0.5em;
+	padding: 0 0 0 2ex;
+}
+
+
