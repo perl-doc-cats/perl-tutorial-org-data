@@ -29,17 +29,7 @@ tutorials:
     covers:     Installing Perl and Running your first script, also hosts the official PerlFAQ
     size:       Medium
     lang:       EN
-    status:     Complete but still being updated
-    lastupdate: 2011.10.28
-
--   url:        http://www.modernperlbooks.com/mt/2011/10/modern-perl-the-book-2011-2012-edition-draft.html
-    name:       "Modern Perl: The Book 2011-2012"
-    type:       PDF
-    version:    5.12
-    covers:     Perl Basics
-    size:       Large
-    lang:       EN
-    status:     Draft
+    status:     Complete
     lastupdate: 2011.10.28
 
 -   url:        http://www.modernperlbooks.com/mt/2011/10/modern-perl-the-book-2011-2012-edition-draft.html
