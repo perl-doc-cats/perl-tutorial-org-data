@@ -1,4 +1,4 @@
-[[Tutorial Index|index]]
+[[Perl Tutorial Hub|index]]
 [[!map pages="
 
 *
