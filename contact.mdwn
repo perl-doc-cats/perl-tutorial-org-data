@@ -4,3 +4,7 @@ If you need to contact us, for whatever reason, by other means, you can find mor
 
 * [[Mithaldu]] (Server and Software Administration)
 * [[tinita]] (Domain Administration and Design)
+
+Additionally the [perl-doc-cats org](https://github.com/perl-doc-cats) has read/write access to the repos, so in a pinch you can also try contacting them on their [[IRC channel|irc://irc.perl.org/perl-faq]].
+
+You can also contact us by email: info (at) perl-tutorial.org
