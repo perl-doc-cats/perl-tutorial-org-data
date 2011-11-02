@@ -63,7 +63,7 @@ table.tut td {
 }
 .actions ul {
 	margin: 0;
-	padding: 3px .4em;
+	padding: 1px .4em;
 	height: 1em;
 	list-style-type: none;
 }
@@ -82,7 +82,6 @@ table.tut td {
     background-color: #999999 ;
     font-size: 120%;
     float: left;
-
 	position: absolute;
 	bottom: 0;
 	right: 2em;
@@ -90,12 +89,6 @@ table.tut td {
 	text-align: right;
 	padding: 2px;
     color: lightgray;
-}
-.pageheader .actions li a {
-    color: white;
-    text-decoration: none;
-    border-left: 1px solid #858585;
-    border-right: 1px solid #A2A2A2;
 }
 .pageheader .actions ul li {
 	margin: 0;
@@ -106,8 +99,6 @@ table.tut td {
 }
 .pageheader .actions ul {
 	border-bottom: 1px solid #000;
-}
-.pageheader .actions ul {
 	border-style: none
 }
 .pageheader {
@@ -125,27 +116,25 @@ table.tut td {
 	float: left;
 	font-size: 160%;
 }
-
-
 .pageheader .actions {
     background-color: #999999 ;
     font-size: 120%;
     float: left;
-
-	position: absolute;
-	bottom: 0;
-	right: 2em;
-	width: 100%;
-	text-align: right;
-	padding: 2px;
+    position: absolute;
+    bottom: 0;
+    right: 2em;
+    width: 100%;
+    text-align: right;
+    padding: 2px;
     color: lightgray;
 }
 .pageheader .actions li a {
     color: white;
     text-decoration: none;
-    border-left: 1px solid #858585;
-    border-right: 1px solid #A2A2A2;
 }
+
+
+
 
 .sidebar {
 	width: 20ex;
@@ -166,5 +155,4 @@ table.tut td {
 	margin-top: 0.5em;
 	padding: 0 0 0 2ex;
 }
-
 
