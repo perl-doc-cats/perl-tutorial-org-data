@@ -168,7 +168,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://perl-begin.org/
 * http://perl-begin.org/tutorials/modern-perl/
 * http://perl-begin.org/tutorials/perl-for-newbies/
-* http://perldoc.perl.org/index-tutorials.html (those should be checked with the git repo to see how old they are realistically)
+* http://perldoc.perl.org/index-tutorials.html (those should be checked with the git repo to see how old they are realistically -- it's always the stable version, jj has been updating punctually and reliably)
 * http://perldoc.perl.org/perlintro.html
 * http://shop.oreilly.com/product/0636920018452.do
 * http://shop.oreilly.com/product/9780596000271.do
@@ -190,3 +190,4 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * new p5p oo tut (draft http://urth.org/~autarch/new-pod/html/perlootut.pod.html , merged into Perl 5.15.3)
 * perl faq  faq.perl.org
 * juerd perluniadvice
+* http://perlmeme.org/
