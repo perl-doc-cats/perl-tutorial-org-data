@@ -197,3 +197,5 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * perl faq  faq.perl.org
 * juerd perluniadvice
 * http://perlmeme.org/
+* book: Elements of Programming with Perl
+* http://wiki.perl-community.de/Wissensbasis/Perl5Tutorial
