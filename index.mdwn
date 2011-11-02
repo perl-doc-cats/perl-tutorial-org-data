@@ -162,12 +162,6 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 
 * http://amzn.com/0201795264
 * http://amzn.com/0321496949
-* http://docstore.mik.ua/orelly/perl/advprog/index.htm
-* http://docstore.mik.ua/orelly/perl/cookbook/index.htm
-* http://docstore.mik.ua/orelly/perl/learn/index.htm
-* http://docstore.mik.ua/orelly/perl/learn32/index.htm
-* http://docstore.mik.ua/orelly/perl/perlnut/index.htm
-* http://docstore.mik.ua/orelly/perl/prog/
 * http://evc-cit.info/cit042
 * http://learn.perl.org
 * http://learnperl.scratchcomputing.com/
