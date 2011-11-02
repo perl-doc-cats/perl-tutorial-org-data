@@ -187,5 +187,6 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://www.sthomas.net/roberts-perl-tutorial.htm
 * http://www.tizag.com/perlT/
 * http://perltraining.com.au/notes/perlcgi.pdf/
-* new p5p oo tut
-* perl faq
+* new p5p oo tut (draft http://urth.org/~autarch/new-pod/html/perlootut.pod.html , merged into Perl 5.15.3)
+* perl faq  faq.perl.org
+* juerd perluniadvice
