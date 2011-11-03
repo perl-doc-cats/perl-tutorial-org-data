@@ -166,7 +166,6 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://learn.perl.org
 * http://learnperl.scratchcomputing.com/
 * http://perl-begin.org/
-* http://perl-begin.org/tutorials/modern-perl/
 * http://perl-begin.org/tutorials/perl-for-newbies/
 * http://perldoc.perl.org/index-tutorials.html (those should be checked with the git repo to see how old they are realistically -- it's always the stable version, jj has been updating punctually and reliably)
 * http://perldoc.perl.org/perlintro.html
