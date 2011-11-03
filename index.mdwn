@@ -54,6 +54,16 @@ tutorials:
     status:     Just Beginning
     lastupdate: 2011.10.28
 
+-   url:        http://search.cpan.org/perldoc?perlootut
+    name:       perlootut
+    type:       Web
+    version:    5.*
+    covers:     Object-Orientation
+    size:       Medium
+    lang:       EN
+    status:     Complete
+    lastupdate: 2011.09.17
+
 -   url:        http://qntm.org/files/perl/perl.html
     name:       Learn Perl in about 2 hours 30 minutes
     type:       Web
@@ -186,7 +196,6 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://www.sthomas.net/roberts-perl-tutorial.htm
 * http://www.tizag.com/perlT/
 * http://perltraining.com.au/notes/perlcgi.pdf/
-* new p5p oo tut (draft http://urth.org/~autarch/new-pod/html/perlootut.pod.html , merged into Perl 5.15.3)
 * perl faq  faq.perl.org
 * juerd perluniadvice
 * http://perlmeme.org/
