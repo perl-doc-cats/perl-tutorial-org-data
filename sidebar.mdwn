@@ -8,7 +8,7 @@
 
 and
 
-!ikiwiki/* and !users* and !system/images
+!ikiwiki/* and !users* and !system/images/*
 
 and
 
