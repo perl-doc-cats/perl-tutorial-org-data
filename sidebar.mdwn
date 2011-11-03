@@ -21,3 +21,9 @@ and
 [[!plusone url="http://perl-tutorial.org"]]
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://perl-tutorial.org" data-text="The newest and freshest Perl Tutorials!" data-count="horizontal">Tweet</a>
+
+<center>
+<a href="http://www.perl.org/"><img src="http://i.perl.org/powered/perlpowered.png" border="0" width="134" height="48"></a>
+<br>and<br>
+<a href="http://ikiwiki.info/"><img src="http://ikiwiki.info/logo/ikiwiki.png" border="0" width="90" height="24"></a>
+</center>
