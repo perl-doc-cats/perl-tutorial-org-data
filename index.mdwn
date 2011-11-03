@@ -59,7 +59,7 @@ tutorials:
     type:       Web
     version:    5.*
     covers:     Object-Orientation
-    size:       Medium
+    size:       Small
     lang:       EN
     status:     Complete
     lastupdate: 2011.09.17
@@ -73,6 +73,16 @@ tutorials:
     lang:       EN
     status:     Complete
     lastupdate: 2011.07.31
+
+-   url:        http://perldoc.perl.org/perlintro.html
+    name:       perlintro
+    type:       Web
+    version:    5.*
+    covers:     Quickstart
+    size:       Small
+    lang:       EN
+    status:     Complete
+    lastupdate: 2010.12.09
 
 -   url:        http://onyxneon.com/books/modern_perl/
     name:       "Modern Perl: The Book"
@@ -178,7 +188,6 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://perl-begin.org/
 * http://perl-begin.org/tutorials/perl-for-newbies/
 * http://perldoc.perl.org/index-tutorials.html (those should be checked with the git repo to see how old they are realistically -- it's always the stable version, jj has been updating punctually and reliably)
-* http://perldoc.perl.org/perlintro.html
 * http://shop.oreilly.com/product/0636920018452.do
 * http://shop.oreilly.com/product/9780596000271.do
 * http://shop.oreilly.com/product/9780596001735.do
