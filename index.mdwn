@@ -200,7 +200,6 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://www.lea-linux.org/documentations/index.php/Dev-perl
 * http://www.perl.com/pub/2000/10/begperl1.html
 * http://www.perl.org/books/beginning-perl/
-* http://www.perltutorial.org/
 * http://www.shlomifish.org/lecture/Perl/Newbies/
 * http://www.sthomas.net/roberts-perl-tutorial.htm
 * http://www.tizag.com/perlT/
@@ -212,3 +211,8 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://wiki.perl-community.de/Wissensbasis/Perl5Lernen
 * http://perl101.org/
 
+# Not Recommended
+
+Here are tutorials that have been looked over and can't be recommended for several reasons. The date of the check is listet. If you think the evaluation is not true anymore let us know.
+
+* http://www.perltutorial.org/ - 2011-11-04 - does not use strict, warnings or my() anywhere in the main tutorial; introduces c-style for loop (a foreach style loop is used later but not explained); suggests subroutine calls with ampersand without explaining
