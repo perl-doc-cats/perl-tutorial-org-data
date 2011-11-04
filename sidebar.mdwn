@@ -12,7 +12,7 @@ and
 
 and
 
-!smileys* and !wikiicons* and !templates* and !*.css and !*.ico
+!smileys* and !wikiicons* and !templates* and !*.css and !*.ico and !*.txt
 
 "]]
 
