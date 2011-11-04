@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /ikiwiki.cgi
+Disallow: /system/
+Disallow: /ikiwiki/
