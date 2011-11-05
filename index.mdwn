@@ -178,7 +178,7 @@ The site is not yet complete, here are some ideas of what we might want to do wi
 
 # Uncurated Tutorials
 
-These tutorials have not yet been looked at in greater detail and thus remain unlinked. If you wish to help, please visit any of those links and add them with the appropiate information to one of the sections above.
+These tutorials have not yet been looked at in greater detail and thus remain unlinked. If you wish to help, please visit any of those links and add them with the appropriate information to one of the sections above.
 
 * http://amzn.com/0201795264
 * http://amzn.com/0321496949
@@ -210,6 +210,8 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * book: Elements of Programming with Perl
 * http://wiki.perl-community.de/Wissensbasis/Perl5Lernen
 * http://perl101.org/
+* http://web.archive.org/web/2010/http://jdporter.perlmonk.org/cgi_course/ (formerly http://users.easystreet.com/ovid/cgi_course/)
+* http://perl.about.com/
 
 # Not Recommended
 
