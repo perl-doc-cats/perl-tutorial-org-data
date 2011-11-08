@@ -24,6 +24,16 @@ These are fresh tutorials that teach a modern style of Perl. They are great for 
 [[!ytemplate  id=tutorial_rows yaml="""
 tutorials:
 
+-   url:        http://szabgab.com/perl_tutorial.html
+    name:       Gabor Szabo's Modern Perl Tutorial
+    type:       Web + Video
+    version:    5.10
+    covers:     Perl Basics
+    size:       Medium
+    lang:       EN
+    status:     Just Beginning
+    lastupdate: 2011.11.07
+
 -   url:        http://learn.perl.org/
     name:       "Learn Perl Website"
     type:       Web
@@ -43,16 +53,6 @@ tutorials:
     lang:       EN
     status:     Draft
     lastupdate: 2011.10.28
-
--   url:        http://szabgab.com/perl_tutorial.html
-    name:       Gabor Szabo's Modern Perl Tutorial
-    type:       Web + Video
-    version:    5.10
-    covers:     Perl Basics
-    size:       Medium
-    lang:       EN
-    status:     Just Beginning
-    lastupdate: 2011.11.07
 
 -   url:        http://search.cpan.org/perldoc?perlootut
     name:       perlootut
