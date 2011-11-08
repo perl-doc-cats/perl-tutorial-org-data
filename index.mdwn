@@ -211,6 +211,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://perl101.org/
 * http://web.archive.org/web/2010/http://jdporter.perlmonk.org/cgi_course/ (formerly http://users.easystreet.com/ovid/cgi_course/)
 * http://perl.about.com/
+* Unix and Perl Primer for Biologists http://korflab.ucdavis.edu/Unix_and_Perl/
 
 # Not Recommended
 
