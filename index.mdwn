@@ -52,7 +52,7 @@ tutorials:
     size:       Medium
     lang:       EN
     status:     Just Beginning
-    lastupdate: 2011.10.28
+    lastupdate: 2011.11.07
 
 -   url:        http://search.cpan.org/perldoc?perlootut
     name:       perlootut
