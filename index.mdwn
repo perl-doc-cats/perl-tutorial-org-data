@@ -168,6 +168,7 @@ tutorials:
 
 The site is not yet complete, here are some ideas of what we might want to do with it. Want to help? Stop by in the IRC channel or find out more about the code of the site on the [[about]] page.
 
+* in order to create free page links without breaking the repo on windows the ikiwiki code needs to be adapted to encode page filenames and urls
 * country flags for the language?
 * figure out how to structure tutorials/howtos written on this site
 * add reddit button to the tutorial tables
@@ -180,6 +181,7 @@ The site is not yet complete, here are some ideas of what we might want to do wi
 
 These tutorials have not yet been looked at in greater detail and thus remain unlinked. If you wish to help, please visit any of those links and add them with the appropriate information to one of the sections above.
 
+* Beginning Perl Ed 3: http://www.apress.com/9781430227939
 * http://amzn.com/0201795264
 * http://amzn.com/0321496949
 * http://evc-cit.info/cit042
