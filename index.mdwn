@@ -215,6 +215,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://perl.about.com/
 * Unix and Perl Primer for Biologists http://korflab.ucdavis.edu/Unix_and_Perl/
 * http://perlgeek.de/de/artikel/charsets-unicode german unicode tutorial, 2008, perl 5.8
+* http://www.slideshare.net/brian_d_foy/perl-university
 
 # Not Recommended
 
