@@ -114,6 +114,26 @@ tutorials:
     status:     Complete
     lastupdate: 2005.05
 
+-   url:        http://nereida.deioc.ull.es/~lhp/perlexamples/
+    name:       Principios de Programaci&oacute;n Imperativa, Funcional y Orientada a Objetos Una Introducci&oacute;n en Perl/Una Introducci&oacute;n a Perl
+    type:       PS + HTML
+    version:    5.8
+    covers:     Functional, Imperative and Object Oriented Programming with Perl
+    size:       Large
+    lang:       ES
+    status:     Complete
+    lastupdate: 2011.04.15
+
+-   url:        http://nereida.deioc.ull.es/~pp2/perlexamples/perlexamples.html
+    name:       Programaci&oacute;n Distribuida y Mejora del Rendimiento
+    type:       HTML
+    version:    5.8
+    covers:     Distributed Programming
+    size:       Medium
+    lang:       ES
+    status:     Complete
+    lastupdate: 2011.06.05
+
 """]]
 
 </table>
@@ -159,6 +179,36 @@ tutorials:
     lang:       EN
     status:     Complete
     lastupdate: 1990
+
+-   url:        http://geneura.ugr.es/~jmerelo/tutoriales/perl-apresurados/
+    name:       Perl para apresurados
+    type:       Web + DocBook + PDF
+    version:    5.8.7
+    covers:     Perl Basics
+    size:       Small
+    lang:       ES
+    status:     Complete
+    lastupdate: 2008.03.10
+
+-   url:        http://www.cicei.ulpgc.es/ocon/gsi/tutorial_perl/
+    name:       Tutorial de Perl
+    type:       Web
+    version:    5.6
+    covers:     Perl Basics
+    size:       Small
+    lang:       ES
+    status:     Complete
+    lastupdate: 2007.01.22
+
+-   url:        http://flanagan.ugr.es/perl/index2.htm
+    name:       Tutorial de Introducci&oacute;n a Perl 
+    type:       Web
+    version:    5.6
+    covers:     Perl Basics
+    size:       Small
+    lang:       ES
+    status:     Complete
+    lastupdate: 2002.07
 
 """]]
 
@@ -220,6 +270,15 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 # Not Recommended
 
 Here are tutorials that have been looked over and can't be recommended for several reasons. The date of the check is listed. If you think the evaluation is not true anymore let us know.
+
+* http://es.tldp.org/Tutoriales/PERL/tutoperl-html/ - 2003.03.22. 
+    name:       Tutorial de PERL en castellano
+    type:       Web
+    version:    5.6
+    covers:     Perl Basics
+    size:       Small
+    lang:       ES
+    status:     Complete
 
 * http://www.perltutorial.org/ - 2011-11-04 - does not use strict, warnings or my() anywhere in the main tutorial; introduces c-style for loop (a foreach style loop is used later but not explained); suggests subroutine calls with ampersand without explaining
 
