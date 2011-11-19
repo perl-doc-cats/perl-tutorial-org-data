@@ -115,17 +115,17 @@ tutorials:
     lastupdate: 2005.05
 
 -   url:        http://nereida.deioc.ull.es/~lhp/perlexamples/
-    name:       Principios de Programaci&oacute;n Imperativa, Funcional y Orientada a Objetos Una Introducci&oacute;n en Perl/Una Introducci&oacute;n a Perl
+    name:       Una Introducci&oacute;n a Perl
     type:       PS + HTML
     version:    5.8
-    covers:     Functional, Imperative and Object Oriented Programming with Perl
+    covers:     Perl Basics
     size:       Large
     lang:       ES
     status:     Complete
     lastupdate: 2011.04.15
 
 -   url:        http://nereida.deioc.ull.es/~pp2/perlexamples/perlexamples.html
-    name:       Programaci&oacute;n Distribuida y Mejora del Rendimiento
+    name:       Programaci&oacute;n Distribuida
     type:       HTML
     version:    5.8
     covers:     Distributed Programming
