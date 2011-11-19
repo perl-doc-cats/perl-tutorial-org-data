@@ -226,6 +226,8 @@ The site is not yet complete, here are some ideas of what we might want to do wi
 * needs a proper design
 * write an [[Tutorial Author Outreach/Email Template]] to be sent to tutorial authors explaining about perl-tutorial.org and inviting them to keep their entries updated
 * send aforementioned email out to authors, will need a [[Tutorial Author Outreach/Contact List]] to track who was sent something
+* automatically sort tutorial tables by date
+* add a jquery hover tooltip that will show a more detailed description of a tutorial based on a YAML key
 
 # Uncurated Tutorials
 
