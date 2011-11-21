@@ -61,6 +61,9 @@ table.tut td {
 	padding-left: 5px;
 	padding-right: 5px;
 }
+table.tut tr:hover td {
+    background-color: #eeeeee;
+}
 .actions ul {
 	margin: 0;
 	padding: 1px .4em;
