@@ -1,8 +1,11 @@
-
 <!-- <tmpl_var legacy> -->
     <TMPL_LOOP raw_tutorials>
         <tr title="<TMPL_VAR description >">
-            <td><a <TMPL_IF ..legacy>rel="nofollow"</TMPL_IF> href="<TMPL_VAR url>"><TMPL_VAR name></a></td>
+            <td><a <TMPL_IF ..legacy>rel="nofollow"</TMPL_IF> href="<TMPL_VAR url>"><TMPL_VAR name></a>
+<TMPL_IF description>[[!template  id=popup mouseover="""<span class="info_icon">i</span>""" popup="""
+<TMPL_VAR description>
+"""]]</TMPL_IF>
+</td>
             <td><TMPL_VAR type></td>
             <td><TMPL_VAR version></td>
             <td><TMPL_VAR covers></td>
