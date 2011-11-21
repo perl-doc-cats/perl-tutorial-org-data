@@ -74,25 +74,27 @@ tutorials:
     status:     Complete
     lastupdate: 2011.07.31
 
--   url:        http://nereida.deioc.ull.es/~pp2/perlexamples/perlexamples.html
-    name:       Programaci&oacute;n Distribuida
-    type:       HTML
-    version:    5.8
-    covers:     Distributed Programming
-    size:       Medium
-    lang:       ES
-    status:     Complete
-    lastupdate: 2011.06.05
+-   url:         http://nereida.deioc.ull.es/~pp2/perlexamples/perlexamples.html
+    name:        Programaci&oacute;n Distribuida
+    type:        HTML
+    version:     5.8
+    covers:      Distributed Programming
+    size:        Medium
+    lang:        ES
+    status:      Complete
+    lastupdate:  2011.06.05
+    description: Programaci&oacute;n Distribuida y Mejora del Rendimiento
 
--   url:        http://nereida.deioc.ull.es/~lhp/perlexamples/
-    name:       Una Introducci&oacute;n a Perl
-    type:       PS + HTML
-    version:    5.8
-    covers:     Perl Basics
-    size:       Large
-    lang:       ES
-    status:     Complete
-    lastupdate: 2011.04.15
+-   url:         http://nereida.deioc.ull.es/~lhp/perlexamples/
+    name:        Una Introducci&oacute;n a Perl
+    type:        PS + HTML
+    version:     5.8
+    covers:      Perl Basics
+    size:        Large
+    lang:        ES
+    status:      Complete
+    lastupdate:  2011.04.15
+    description: Functional, Imperative and Object Oriented Programming with Perl. Principios de Programaci&oacute;n Imperativa, Funcional y Orientada a Objetos Una Introducci&oacute;n en Perl
 
 -   url:        http://perldoc.perl.org/perlintro.html
     name:       perlintro
