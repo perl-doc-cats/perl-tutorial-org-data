@@ -32,7 +32,7 @@ tutorials:
     size:       Medium
     lang:       EN
     status:     Just Beginning
-    lastupdate: 2011.11.24
+    lastupdate: 2011.12.04
 
 -   url:        http://learn.perl.org/
     name:       "Learn Perl Website"
