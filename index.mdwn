@@ -270,6 +270,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://perlgeek.de/de/artikel/charsets-unicode german unicode tutorial, 2008, perl 5.8
 * http://www.slideshare.net/brian_d_foy/perl-university
 * http://www.troubleshooters.com/codecorn/littperl/
+* http://www.tutorialspoint.com/perl/
 
 # Not Recommended
 
@@ -302,7 +303,7 @@ Here are tutorials that have been looked over and can't be recommended for sever
 
         The file extension holds no sway over the functioning of a script. Scripts with a non-customary extension or without one work just fine.
 
-        > File names [�] must not contain a space.
+        > File names [&hellip;] must not contain a space.
 
         File names of scripts may contain spaces.
 
@@ -311,21 +312,21 @@ Here are tutorials that have been looked over and can't be recommended for sever
 
         > Your script is working perfectly if you are staring at a blank screen
 
-        The description does not fit the code. Just as before, &#8223;[y]ou should see "Hello, Perl!" in the top left corner of your browser.�.
+        The description does not fit the code. Just as before, &ldquo;[y]ou should see "Hello, Perl!" in the top left corner of your browser.&rdquo;.
 
     * http://www.tizag.com/perlT/perlsyntax.php
 
-        The paragraph &#8223;Escaping Characters� does not mention that [string literals can be delimited with different operators](http://perldoc.perl.org/perlop.html#Quote-and-Quote-like-Operators) so that content is not interpolated so that the use of backslashes as described becomes unnecessary.
+        The paragraph &ldquo;Escaping Characters&rdquo; does not mention that [string literals can be delimited with different operators](http://perldoc.perl.org/perlop.html#Quote-and-Quote-like-Operators) so that content is not interpolated so that the use of backslashes as described becomes unnecessary.
 
     * http://www.tizag.com/perlT/perlvariables.php
 
         > A variable is defined by the `$` symbol (scalar), the `@` symbol (arrays), or the `%` symbol (hashes).
 
-        A variable is defined by virtue of declaration in its scope. The word define is misused throughout this chapter, it should talk about declaring instead. What the author calls &#8223;symbol� most people call sigil. They do not refer to the type of the variable but the mode of addressing, the expressions `$foo{bar}` and `$foo[42]` or `@foo{qw(bar baz)}` and `@foo[1..7]` do not fit to the description.
+        A variable is defined by virtue of declaration in its scope. The word define is misused throughout this chapter, it should talk about declaring instead. What the author calls &ldquo;symbol&rdquo; most people call sigil. They do not refer to the type of the variable but the mode of addressing, the expressions `$foo{bar}` and `$foo[42]` or `@foo{qw(bar baz)}` and `@foo[1..7]` do not fit to the description.
 
         > Variables can be defined either way.
 
-        Teaching this without pointing out the difference is a bad idea. Package variables (here: the ones declared without my) are a hold-over from the era before Perl 5, about 15 years ago. As written in the tutorial, the program will not work under the strict pragma whose usage has been recommended for years everywhere: &#8223;Global symbol "$somenumber" requires explicit package name at definestrings.pl line 6. � Execution of definestrings.pl aborted due to compilation errors.� The tutorial should only teach lexical variables (here: the ones declared with my).
+        Teaching this without pointing out the difference is a bad idea. Package variables (here: the ones declared without my) are a hold-over from the era before Perl 5, about 15 years ago. As written in the tutorial, the program will not work under the strict pragma whose usage has been recommended for years everywhere: &ldquo;Global symbol "$somenumber" requires explicit package name at definestrings.pl line 6. &hellip; Execution of definestrings.pl aborted due to compilation errors.&rdquo; The tutorial should only teach lexical variables (here: the ones declared with my).
 
         > my parameter
 
@@ -371,7 +372,7 @@ Here are tutorials that have been looked over and can't be recommended for sever
 
         > In the table above, the black operators are for numbers and the red ones are for strings.
 
-        The [operators &#8223;and�, &#8223;or�](http://perldoc.perl.org/perlop.html#Logical-And) are in red. It is wrong to claim that they are for strings.
+        The [operators &ldquo;and&rdquo;, &ldquo;or&rdquo;](http://perldoc.perl.org/perlop.html#Logical-And) are in red. It is wrong to claim that they are for strings.
 
     * http://www.tizag.com/perlT/perlarrays.php
 
@@ -423,7 +424,7 @@ Here are tutorials that have been looked over and can't be recommended for sever
 
     * http://www.tizag.com/perlT/perlfilehandle.php
 
-        The program in the paragraph &#8223;Assigning Handles� is not working. It won't compile because of the missing semicolon after the variable assignment. The sysopen call fails because the bareword `O_RDWR` is co�rced to 0. To make the sysopen calls work as intended, one first needs to import the topical constants from the Fcntl module: `use Fcntl qw(O_RDWR O_EXCL O_CREAT);`
+        The program in the paragraph &ldquo;Assigning Handles&rdquo; is not working. It won't compile because of the missing semicolon after the variable assignment. The sysopen call fails because the bareword `O_RDWR` is co&euml;rced to 0. To make the sysopen calls work as intended, one first needs to import the topical constants from the Fcntl module: `use Fcntl qw(O_RDWR O_EXCL O_CREAT);`
 
         > sysopen(HANDLE, $FilePath, O_RDWR);
 
@@ -451,7 +452,7 @@ Here are tutorials that have been looked over and can't be recommended for sever
 
     * http://www.tizag.com/perlT/perlfileopen.php
 
-        In the paragraph &#8223;Open a File�:
+        In the paragraph &ldquo;Open a File&rdquo;:
 
         > $FH = "filehandle";
 
@@ -465,10 +466,10 @@ Here are tutorials that have been looked over and can't be recommended for sever
 
         The variable `$FileName` was not defined.
 
-        The next paragraph &#8223;File Permissions� does not talk about permissions, but access modes.
+        The next paragraph &ldquo;File Permissions&rdquo; does not talk about permissions, but access modes.
 
         > Here's a listing of what to pass to the open function when working with file handles.
 
         > < or r
 
-        The open function only recognises the mode as used in shell, not the mode as used in C. That will provoke the diagnostic &#8223;Unknown open() mode 'r' at ��.
+        The open function only recognises the mode as used in shell, not the mode as used in C. That will provoke the diagnostic &ldquo;Unknown open() mode 'r' at &hellip;&rdquo;.
