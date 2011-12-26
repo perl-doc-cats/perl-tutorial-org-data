@@ -2,11 +2,11 @@
 
 #Introduction
 
-Just as one of Perl's main tenets is "There Is More Than One Way To Do It", there is more than one way to learn it. Here we collect and organize the Perl tutorials available on the internet so you can easily find one that is fresh and suits your taste.
+Just as one of Perl's main tenets is "There Is More Than One Way To Do It", there is more than one way to learn it. Here we collect and organize the Perl tutorials available on the Internet so you can easily find one that is fresh and suits your taste.
 
 #Recommended Tutorials
 
-These are fresh tutorials that teach a modern style of Perl. They are great for newcomers to learn the language and for seasoned developers to refresh their knowlege or learn new tricks.
+These are fresh tutorials that teach a modern style of Perl. They are great for newcomers to learn the language and for seasoned developers to refresh their knowledge or learn new tricks.
 
 <table class="tut">
     <tr>
@@ -271,6 +271,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://www.slideshare.net/brian_d_foy/perl-university
 * http://www.troubleshooters.com/codecorn/littperl/
 * http://www.tutorialspoint.com/perl/
+* http://www.cs.cf.ac.uk/Dave/PERL/
 
 # Not Recommended
 
