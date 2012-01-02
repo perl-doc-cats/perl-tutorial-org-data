@@ -273,6 +273,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://www.tutorialspoint.com/perl/
 * http://www.cs.cf.ac.uk/Dave/PERL/
 * http://vsbabu.org/tutorials/perl/
+* http://www.cs.cmu.edu/afs/cs/usr/rgs/mosaic/pl-suid.html
 
 # Not Recommended
 
