@@ -31,8 +31,8 @@ tutorials:
     covers:     Perl Basics
     size:       Medium
     lang:       EN
-    status:     Just Beginning
-    lastupdate: 2011.12.14
+    status:     In development
+    lastupdate: 2012.01.10
 
 -   url:        http://learn.perl.org/
     name:       "Learn Perl Website"
