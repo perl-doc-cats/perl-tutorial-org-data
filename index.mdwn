@@ -203,7 +203,7 @@ tutorials:
     lastupdate: 2007.01.22
 
 -   url:        http://flanagan.ugr.es/perl/index2.htm
-    name:       Tutorial de Introducci&oacute;n a Perl 
+    name:       Tutorial de Introducci&oacute;n a Perl
     type:       Web
     version:    5.6
     covers:     Perl Basics
@@ -279,17 +279,4 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 
 # Not Recommended
 
-Here are tutorials that have been looked over and can't be recommended for several reasons. The date of the check is listed. If you think the evaluation is not true anymore let us know.
-
-* http://es.tldp.org/Tutoriales/PERL/tutoperl-html/ - 2003.03.22. 
-    name:       Tutorial de PERL en castellano
-    type:       Web
-    version:    5.6
-    covers:     Perl Basics
-    size:       Small
-    lang:       ES
-    status:     Complete
-
-* http://www.perltutorial.org/ - 2011-11-04 - does not use strict, warnings or my() anywhere in the main tutorial; introduces c-style for loop (a foreach style loop is used later but not explained); suggests subroutine calls with ampersand without explaining
-
-* http://www.tizag.com/perlT/ - 2011-11-05 - Besides the weak orthography and diction, numerous mistakes and shortcomings. [[There are way too many issues to lsit them all here.|Rejected/Tizag]]
+There is a big number of tutorials that cannot be recommended even as legacy tutorials. You can find these, along with their rejection reasons [[on their own page|rejected]].

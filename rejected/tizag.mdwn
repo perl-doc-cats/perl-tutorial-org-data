@@ -1,0 +1,186 @@
+There is hardly is a chapter without errors. These are the most egregious of the first 12:
+
+    * http://www.tizag.com/perlT/
+
+        > PERL
+
+        The name of the language is [Perl](http://learn.perl.org/faq/perlfaq1.html#Whats-the-difference-between-perl-and-Perl-).
+
+        > the latest version of Perl (currently 5.10)
+
+        The [stable version](http://perl.org/get.html) is 5.14.
+
+        > a PERL file must be saved with a .pl (.PL) file extension in order to be recognized as a functioning PERL script.
+
+        The file extension holds no sway over the functioning of a script. Scripts with a non-customary extension or without one work just fine.
+
+        > File names [&hellip;] must not contain a space.
+
+        File names of scripts may contain spaces.
+
+
+    * http://www.tizag.com/perlT/perlfirstscript.php
+
+        > Your script is working perfectly if you are staring at a blank screen
+
+        The description does not fit the code. Just as before, &ldquo;[y]ou should see "Hello, Perl!" in the top left corner of your browser.&rdquo;.
+
+    * http://www.tizag.com/perlT/perlsyntax.php
+
+        The paragraph &ldquo;Escaping Characters&rdquo; does not mention that [string literals can be delimited with different operators](http://perldoc.perl.org/perlop.html#Quote-and-Quote-like-Operators) so that content is not interpolated so that the use of backslashes as described becomes unnecessary.
+
+    * http://www.tizag.com/perlT/perlvariables.php
+
+        > A variable is defined by the `$` symbol (scalar), the `@` symbol (arrays), or the `%` symbol (hashes).
+
+        A variable is defined by virtue of declaration in its scope. The word define is misused throughout this chapter, it should talk about declaring instead. What the author calls &ldquo;symbol&rdquo; most people call sigil. They do not refer to the type of the variable but the mode of addressing, the expressions `$foo{bar}` and `$foo[42]` or `@foo{qw(bar baz)}` and `@foo[1..7]` do not fit to the description.
+
+        > Variables can be defined either way.
+
+        Teaching this without pointing out the difference is a bad idea. Package variables (here: the ones declared without my) are a hold-over from the era before Perl 5, about 15 years ago. As written in the tutorial, the program will not work under the strict pragma whose usage has been recommended for years everywhere: &ldquo;Global symbol "$somenumber" requires explicit package name at definestrings.pl line 6. &hellip; Execution of definestrings.pl aborted due to compilation errors.&rdquo; The tutorial should only teach lexical variables (here: the ones declared with my).
+
+        > my parameter
+
+        [my is a function](http://perldoc.perl.org/functions/my.html).
+
+    * http://www.tizag.com/perlT/perlstrings.php
+
+        > q subfunction
+
+        [q is an operator](http://perldoc.perl.org/perlop.html#Quote-and-Quote-like-Operators). There is no such thing as a subfunction, the author mixed up subroutine and function.
+
+        > formatting characters
+
+        These are called [escape sequences](http://perldoc.perl.org/perlre.html#Escape-sequences). It is not mentioned that the list in the tutorial is incomplete.
+
+        http://www.tizag.com/perlT/perlnumbers.php
+
+        > They exist in PERL as real numbers
+
+        The standard Perl distribution, like most languages, comes with no facility for dealing with real numbers. Judging from the code example, the author intended to talk about natural numbers.
+
+        > Here's a few trigonomic functions that will only function if your build of PERL has the Math::Trig module installed.
+
+        The [sine function (sin)](http://perldoc.perl.org/functions/sin.html) is a built-in and therefore works without the module.
+
+    * http://www.tizag.com/perlT/perloperators.php
+
+        > Exponents
+
+        The operator is called exponentiation.
+
+        > Example: 7 le 11
+
+        > Result: True
+
+        The expression `7 le 11` evaluates false.
+
+        > Example: 7 ge 11
+
+        > Result: False
+
+        The expression `7 ge 11` evaluates true.
+
+        > In the table above, the black operators are for numbers and the red ones are for strings.
+
+        The [operators &ldquo;and&rdquo;, &ldquo;or&rdquo;](http://perldoc.perl.org/perlop.html#Logical-And) are in red. It is wrong to claim that they are for strings.
+
+    * http://www.tizag.com/perlT/perlarrays.php
+
+        > qw Subroutine
+
+        [qw is an operator](http://perldoc.perl.org/perlop.html#Quote-and-Quote-like-Operators).
+
+        > sequentialarrays.pl:
+
+        > @abc = (a .. z);
+
+        > print "@abc<br />";
+
+        > Display:
+
+        > Quarter Dime Nickel
+
+        > QuarterDimeNickel
+
+        This is a copy-paste accident. The output does not fit to the code.
+
+        > we can redefine the array as a scalar variable.
+
+        This is assignment, not redefining.
+
+        > When adding elements using push() or shift()
+
+        shift() removes, unshift() adds.
+
+        > Function: delete $array[index]
+
+        > Definition: Removes an element by index number
+
+        Only if it is the last one, usually the element is replaced with undef. Using the [delete function](http://perldoc.perl.org/functions/delete.html) on arrays is deprecated, there's no point in teaching it.
+
+        > The sort() function sorts each element of an array according to ASCII Numeric standards.
+
+        To the Unicode standard, no special collation rules, comparing codepoints only.
+
+    * http://www.tizag.com/perlT/perlwhile.php
+
+        The example whilearrayloop.pl contains a trap. The while loop aborts prematurely if the array contains a false element, such as 0, the empty string or undef.
+
+    * http://www.tizag.com/perlT/perlhashes.php
+
+        > We need to edit our hash to and change is the values to floating-point numbers.
+
+        This whole part is totally confusing. The problem can be solved straight-forward by keeping the integer numbers, using the spaceship operator <=> to compare numerically instead of using the cmp operator to compare stringwise.
+
+    * http://www.tizag.com/perlT/perlfilehandle.php
+
+        The program in the paragraph &ldquo;Assigning Handles&rdquo; is not working. It won't compile because of the missing semicolon after the variable assignment. The sysopen call fails because the bareword `O_RDWR` is co&euml;rced to 0. To make the sysopen calls work as intended, one first needs to import the topical constants from the Fcntl module: `use Fcntl qw(O_RDWR O_EXCL O_CREAT);`
+
+        > sysopen(HANDLE, $FilePath, O_RDWR);
+
+        Instead of the problematic bareword filehandles, [indirect filehandles](http://perldoc.perl.org/perlopentut.html#Indirect-Filehandles) should be taught.
+
+        > printf HANDLE "Welcome to Tizag!";
+
+        This is a trap. Should the string contain a format expression such as `%s`, it will be discarded. `print` should be used instead.
+
+        > sysopen (HTML, '$filepath', O_RDWR|O_EXCL|O_CREAT, 0755) or die "$filepath cannot be opened.";
+
+        The message is lacking the error message from the system. The `$!` variable should be added, or better yet, `autodie` should be taught.
+
+        > printf HTML "<html>\n";
+
+        > printf HTML "<head>\n";
+
+        > printf HTML "<title>My Home Page</title>";
+
+        > printf HTML "</head>\n";
+
+        > printf HTML "<body>\n";
+
+        Line-wrapping strings and heredoc strings should be taught.
+
+    * http://www.tizag.com/perlT/perlfileopen.php
+
+        In the paragraph &ldquo;Open a File&rdquo;:
+
+        > $FH = "filehandle";
+
+        This variable `$FH` is defined, but not used later.
+
+        > open(FH, $FilePath, permissions);
+
+        The syntax is wrong. The mode goes in the middle.
+
+        > sysopen(FH, $FileName, permission);
+
+        The variable `$FileName` was not defined.
+
+        The next paragraph &ldquo;File Permissions&rdquo; does not talk about permissions, but access modes.
+
+        > Here's a listing of what to pass to the open function when working with file handles.
+
+        > < or r
+
+        The open function only recognises the mode as used in shell, not the mode as used in C. That will provoke the diagnostic &ldquo;Unknown open() mode 'r' at &hellip;&rdquo;.
