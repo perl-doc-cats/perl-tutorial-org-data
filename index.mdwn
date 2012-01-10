@@ -275,6 +275,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://vsbabu.org/tutorials/perl/
 * http://www.cs.cmu.edu/afs/cs/usr/rgs/mosaic/pl-suid.html
 * http://htmlfixit.com/cgi-tutes/tutorial_Perl_Primer_001_-_why_perl_-_why_NOT_perl.shtml
+* http://www.tobez.org/presentations/perl-oop/
 
 # Not Recommended
 
@@ -477,9 +478,3 @@ Here are tutorials that have been looked over and can't be recommended for sever
         > < or r
 
         The open function only recognises the mode as used in shell, not the mode as used in C. That will provoke the diagnostic &ldquo;Unknown open() mode 'r' at &hellip;&rdquo;.
-rdquo; does not talk about permissions, but access modes.
-
-        
-tut Example: 7 le 11
-
-        
