@@ -168,3 +168,7 @@ span.balloon {
     max-width: 45em;
 }
 
+blockquote {
+    padding-left: 1em;
+    border-left: 0.2em solid #ccc;
+}
