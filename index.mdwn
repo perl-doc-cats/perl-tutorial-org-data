@@ -165,12 +165,13 @@ tutorials:
 -   url:        http://perl-seiten.privat.t-online.de
     name:       Eike Grote's German Perl Tutorial
     type:       Web
-    version:    5.8.6
+    version:    5.6
     covers:     Perl Basics
     size:       Large
     lang:       DE
     status:     Complete
     lastupdate: 2005.05
+    description: Covers Basics (How to write a script, variable types, operators, formats, regexes, subroutines, references, using modules).<br> Behandelt Perl Basics (Erste Schritte, Variablentypen, Operatoren, Formate, Regex, Subroutinen, Referenzen, Benutzung von Modulen).
 
 -   url:        http://www.scs.leeds.ac.uk/Perl/start.html
     name:       University of Leeds Perl Tutorial
@@ -212,16 +213,8 @@ tutorials:
     status:     Complete
     lastupdate: 2002.07
 
--   url:        http://perl-seiten.homepage.t-online.de/
-    name:       Die Programmiersprache Perl
-    type:       Web + PDF
-    version:    5.6
-    covers:     Perl Basics
-    size:       Large
-    lang:       DE
-    status:     Complete
-    lastupdate: 2005.05
-    description: Covers Basics (How to write a script, variable types, operators, formats, regexes, subroutines, references, using modules).<br> Behandelt Perl Basics (Erste Schritte, Variablentypen, Operatoren, Formate, Regex, Subroutinen, Referenzen, Benutzung von Modulen).
+
+
 """]]
 
 </table>
