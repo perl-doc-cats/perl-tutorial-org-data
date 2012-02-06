@@ -279,6 +279,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://www.cs.cmu.edu/afs/cs/usr/rgs/mosaic/pl-suid.html
 * http://htmlfixit.com/cgi-tutes/tutorial_Perl_Primer_001_-_why_perl_-_why_NOT_perl.shtml
 * http://www.tobez.org/presentations/perl-oop/
+* http://www.haypocalc.com/tmp/unicode-2011-07-20/html/programming_languages.html#perl
 
 # Not Recommended
 
