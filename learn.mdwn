@@ -59,6 +59,10 @@ Perl is good at munging text, however, for all but simple cases, you might want 
 
 Finally while code-reuse is a good idea, it can only as good as the code that is being reused. The CGI.pm module helped put Perl on the map, but its days are numbered. A tutorial that spends too much time on it is probably too old to trust.
 
+**Staring a Module**
+
+There are several systems which help a user begin authoring a module. Among these are Dist::Zilla and Module::Starter. An older option is the `h2xs` program, which is older and very complicated. Tutorials which depend on `h2xs` are probably either too old or are targeting a specific case that new users need not deal with yet (wrapping C code into an XS module).
+
 **In Conclusion**
 
 While none of these guidelines is absolute, I think you the reader will find that most tutorials will usually fall into very good or very bad/old. Hopefully this helps you find those good Perl tutorials, and steer clear of the others.
