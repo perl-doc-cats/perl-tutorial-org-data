@@ -4,6 +4,10 @@
 
 One of Perl's main tenets is "There Is More Than One Way To Do It", there is also more than one way to learn it. We collect and organize fresh Perl tutorials so you can easily find one that suits your taste.
 
+#Learn About Good Tutorials
+
+[[Some things to keep in mind|learn]] when considering a quality of a tutorial. 
+
 #Recommended Tutorials
 
 These are fresh tutorials that teach a modern style of Perl. They are great for newcomers to learn the language and for seasoned developers to refresh their knowledge or learn new tricks.
