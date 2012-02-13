@@ -1,0 +1,66 @@
+#Learn to Spot a Good Tutorial
+
+The web is crowded with tutorials about Perl. Perl has improved over the years, bringing new features, safer constructs and clearer syntax. However the old tutorials still are read and learned by far too many new Perlers. This article is to help you be able to select your information source critically.
+
+Some things to look for:
+
+**The name of the language is Perl**
+
+Yes that's Perl not PERL. The community is very adamant about this, so if the tutorial says PERL you know that it is written by someone outside the Perl community.
+
+**The current Perl version is 5.14, the year is 2012** 
+
+Many tutorials that were great for Perl 4, or even 5.6 are now woefully out of date. If there is a date on the tutorial older than about 2007 or Perl version 5.10, it will be missing many of the new features and may use older, more dangerous syntax.
+
+**Recommends using 'strict' and 'warnings'**
+
+While the `strict` and `warnings` pragmas are not required, and there are still a few people who prefer not to use them, the vast majority of Perlers do. They help prevent typos and gotchas that are very easy for even the most experienced Perlers to accidently fall into. 
+
+A good tutorial site should at least mention that these represent a good safety net, but may skip including them on each example to save space. An even better site will include them in all longer code snippets. 
+
+Finally, you may see snippets which use a `-w` on the top line, this is a giveaway that the tutorial was probably good, but is now a little old (see above).
+
+**Use of 'my' variables**
+
+Along with `use strict` comes the requirement that variables are declared with some scope. This means that the first time a variable is introduced, it should come with a declaration of `my`, `our`, `local` or `state`.
+
+    my $phrase = 'Hello World';
+    our @names = ('Jim', 'Bob');
+
+If this is not the case, I would move on to another tutorial. One exception is if the code is written as a "one-liner", which will look like
+
+    perl -e 'some code here'
+
+in which these declarations are not often used. New Perlers may want to learn some basics before attempting one-liners however.
+
+**Modern use of the 'open' command**
+
+The `open` command has seen some big changes over the years, and while the old use will still work, the modern syntax is much better. Since Perl is often used to work on text files, the `open` command is in almost every tutorial. As such, the treatment of this one command can serve as a useful litmus test as to the age and "goodness" of a tutorial.
+
+A huge red-flag of an old tutorial looks like this
+
+    open HANDLE, '<filename';
+
+rather that a modern
+
+    open my $handle, '<', 'filename' or die "Cannot open filename: $!";
+
+This will take some explanation. First modern Perl lets one assign the filehandle to a variable (i.e. `$handle`, which may need the `my` declarator if it has not been declared previously), which is highly recommended. 
+
+Separating the open type, `<` or `>` (for read and write, respectively) from the file name is now recommended as well. This is called "the 3-arg open" and should be used whenever possible.
+
+Checking to make sure that open succeeded is also recommended. The snippet above does this with the `or die ...` conditional. Another simple way to accomplish this task is to `use autodie` near the top of the script. Would you want your code to work on a file that didn't open correctly? I doubt it.
+
+A good tutorial should do, or at least mention, all of the previous concerns. If they lax on checking success on opening after mentioning it, this is probably acceptable (from a purely space-saving perspective). If not, move on.
+
+**Preach code reuse**
+
+Perl is good at munging text, however, for all but simple cases, you might want to use standard modules when appropriate. A new user should probably know how to parse out a basic line of comma-separated text, and a tutorial can show you how to do it manually. That said, a very good tutorial will mention that this is very fragile and that you should, in practice use the Text::CSV module. Same goes for HTML, XML, JSON and other formats.
+
+Finally while code-reuse is a good idea, it can only as good as the code that is being reused. The CGI.pm module helped put Perl on the map, but its days are numbered. A tutorial that spends too much time on it is probably too old to trust.
+
+**In Conclusion**
+
+While none of these guidelines is absolute, I think you the reader will find that most tutorials will usually fall into very good or very bad/old. Hopefully this helps you find those good Perl tutorials, and steer clear of the others.
+
+[[original posted at blogs.perl.org|http://blogs.perl.org/users/joel_berger/2012/02/the-perl-tutorial-tutorial.html]]
