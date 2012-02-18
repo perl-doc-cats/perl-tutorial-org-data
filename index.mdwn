@@ -245,7 +245,6 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://amzn.com/0201795264
 * http://amzn.com/0321496949
 * http://evc-cit.info/cit042
-* http://learn.perl.org
 * http://learnperl.scratchcomputing.com/
 * http://perl-begin.org/
 * http://perl-begin.org/tutorials/perl-for-newbies/
