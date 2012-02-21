@@ -293,6 +293,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://www.tobez.org/presentations/perl-oop/
 * http://www.haypocalc.com/tmp/unicode-2011-07-20/html/programming_languages.html#perl
 * http://www.devdaily.com/perl/ http://www.devdaily.com/perl/edu/ http://www.devdaily.com/perl/edu/qanda/ http://www.devdaily.com/perl/pgms/ http://www.devdaily.com/perl/recipes/
+* http://www.cambridge.org/pt/knowledge/isbn/item6617689
 
 # Not Recommended
 
