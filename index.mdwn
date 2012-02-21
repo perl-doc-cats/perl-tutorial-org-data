@@ -170,12 +170,12 @@ tutorials:
     name:        Programming Perl 4th
     type:        Book + E-Book
     version:     5.14
-    covers:      Perl Basics
+    covers:      Broad Reference
     size:        Large
     lang:        EN
     status:      Complete
     lastupdate:  2012.02.17
-    description: This is a rather new edition of the book, but for [[a number of issues with its content it cannot be recommended|rejected/prog_perl_4th]].
+    description: This is a rather new edition of the book, but for [[a number of issues with its content it cannot be recommended for newcomers|rejected/prog_perl_4th]].
 
 -   url:        http://perl-seiten.privat.t-online.de
     name:       Eike Grote's German Perl Tutorial
