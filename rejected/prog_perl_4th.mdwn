@@ -1,5 +1,6 @@
 Programming Perl 4th Edition is a good book, however it is also a book with a lot of history. Huge parts of its contents stem from 1991 and have a very outdated style of Perl. 4th Edition tries to upgrade this somewhat, but did not to so with enough diligence to permit me to recommend it. Some specific issues:
 
 * strict and warnings are not higlighted at all. In the preface chapter there are two code examples without strict and one is written as if it was not in effect. In fact, strict first occurs on the 14th page of the first chapter on the third page of a sub-chapter at the bottom of a page.
+* On later pages in the book code examples consistently act as if there was no strict present.
 * given/when and smartmatching are one of the first things highlighted. That is unfortunate since these features are rife with issues, inconsistencies and their future is pretty contentious.
 * The first filehandles encountered are of the bareword kind. Others have written mounds on why this is not a wise choice and i do not think this should be one of the first things a newbie sees.
