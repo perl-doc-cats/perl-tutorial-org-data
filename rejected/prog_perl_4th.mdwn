@@ -5,6 +5,6 @@ Programming Perl 4th Edition is a good book, however it is also a book with a lo
 * given/when and smartmatching are one of the first things highlighted. That is unfortunate since these features are rife with issues, inconsistencies and their future is pretty contentious.
 * The first filehandles encountered are of the bareword kind. Others have written mounds on why this is not a wise choice and i do not think this should be one of the first things a newbie sees.
 
-According to rafl this book is not meant to act as a guide for people to look Perl, but as a reference for experienced Perl programmers to look up topics they are not entirely clear on. This means that it is not a tutorial and as such misplaced here. Since it does however not indicate this very clearly and people are likely to also make the mistake of assuming it is tutorial, i will leave this entry here.
+According to rafl this book is not meant to act as a guide for people to learn Perl, but as a reference for experienced Perl programmers to look up topics they are not entirely clear on. This means that it is not a tutorial and as such misplaced here. Since it does however not indicate this very clearly and people are likely to also make the mistake of assuming it is tutorial, i will leave this entry here.
 
 Corrections and additions are, as everywhere else here, very welcome.
