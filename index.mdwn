@@ -48,15 +48,15 @@ tutorials:
     status:     Complete
     lastupdate: 2011.10.28
 
--   url:        http://www.modernperlbooks.com/mt/2011/10/modern-perl-the-book-2011-2012-edition-draft.html
+-   url:        http://onyxneon.com/books/modern_perl/
     name:       "Modern Perl: The Book 2011-2012"
     type:       PDF
     version:    5.12
     covers:     Perl Basics
     size:       Large
     lang:       EN
-    status:     Draft
-    lastupdate: 2011.10.28
+    status:     Complete
+    lastupdate: 2012.02.28
 
 -   url:        http://search.cpan.org/perldoc?perlootut
     name:       perlootut
@@ -109,16 +109,6 @@ tutorials:
     lang:       EN
     status:     Complete
     lastupdate: 2010.12.09
-
--   url:        http://onyxneon.com/books/modern_perl/
-    name:       "Modern Perl: The Book"
-    type:       PDF
-    version:    5.10
-    covers:     Perl Basics
-    size:       Large
-    lang:       EN
-    status:     Complete
-    lastupdate: 2010.10
 
 -   url:        http://www.shmuelfomberg.com/perlhebtut/
     name:       Hebrew Perl Tutorial
