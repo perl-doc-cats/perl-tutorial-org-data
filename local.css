@@ -3,6 +3,12 @@ p {
     text-align: justify;
 }
 
+div#content ul {
+	padding-left: 2em;
+	max-width: 33em;
+	text-align: justify;
+}
+
 body {
 	margin: 0;
 	padding: 0;
