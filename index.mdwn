@@ -50,7 +50,7 @@ tutorials:
 
 -   url:        http://onyxneon.com/books/modern_perl/
     name:       "Modern Perl: The Book 2011-2012"
-    type:       PDF
+    type:       PDF + Book
     version:    5.14
     covers:     Perl Basics
     size:       Large
