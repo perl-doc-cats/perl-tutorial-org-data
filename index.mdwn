@@ -51,7 +51,7 @@ tutorials:
 -   url:        http://onyxneon.com/books/modern_perl/
     name:       "Modern Perl: The Book 2011-2012"
     type:       PDF
-    version:    5.12
+    version:    5.14
     covers:     Perl Basics
     size:       Large
     lang:       EN
@@ -288,3 +288,4 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 # Not Recommended
 
 There is a big number of tutorials that cannot be recommended even as legacy tutorials. You can find these, along with their rejection reasons [[on their own page|rejected]].
+Status
