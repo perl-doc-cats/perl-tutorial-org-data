@@ -30,7 +30,7 @@ tutorials:
 
 -   url:        http://szabgab.com/perl_tutorial.html
     name:       Gabor Szabo's Perl Tutorial
-    type:       Web + Video
+    type:       Web + eBook + Video
     version:    5.10
     covers:     Perl Basics
     size:       Medium
