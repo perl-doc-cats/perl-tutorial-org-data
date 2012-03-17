@@ -57,9 +57,9 @@ A good tutorial should do, or at least mention, all of the previous concerns. If
 
 Perl is good at munging text, however, for all but simple cases, you might want to use standard modules when appropriate. A new user should probably know how to parse out a basic line of comma-separated text, and a tutorial can show you how to do it manually. That said, a very good tutorial will mention that this is very fragile and that you should, in practice use the Text::CSV module. Same goes for HTML, XML, JSON and other formats.
 
-Finally while code-reuse is a good idea, it can only as good as the code that is being reused. The CGI.pm module helped put Perl on the map, but its days are numbered. A tutorial that spends too much time on it is probably too old to trust.
+Finally while code-reuse is a good idea, it can only be as good as the code that is being reused. The CGI.pm module helped put Perl on the map, but its days are numbered. A tutorial that spends too much time on it is probably too old to trust.
 
-**Staring a Module**
+**Starting a Module**
 
 There are several systems which help a user begin authoring a module. Among these are Dist::Zilla and Module::Starter. An older option is the `h2xs` program, which is older and very complicated. Tutorials which depend on `h2xs` are probably either too old or are targeting a specific case that new users need not deal with yet (wrapping C code into an XS module).
 
