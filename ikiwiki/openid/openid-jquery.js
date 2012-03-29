@@ -8,12 +8,12 @@ This code is licenced under the New BSD License.
 var providers_large = {
     google: {
         name: 'Google',
-	icon: 'http://google.com/favicon.ico',
+	icon: 'wikiicons/openidlogin-google.ico',
         url: 'https://www.google.com/accounts/o8/id'
     },
     yahoo: {
         name: 'Yahoo',      
-	icon: 'http://yahoo.com/favicon.ico',
+	icon: 'wikiicons/openidlogin-yahoo.ico',
         url: 'http://me.yahoo.com/'
     },    
     openid: {
@@ -26,43 +26,43 @@ var providers_large = {
 var providers_small = {
     livejournal: {
         name: 'LiveJournal',
-	icon: 'http://livejournal.com/favicon.ico',
+	icon: 'wikiicons/openidlogin-livejournal.ico',
         label: 'Enter your Livejournal username:',
         url: 'http://{username}.livejournal.com/'
     },
     flickr: {
 	name: 'Flickr',        
-	icon: 'http://flickr.com/favicon.ico',
+	icon: 'wikiicons/openidlogin-flickr.ico',
 	label: 'Enter your Flickr username:',
 	url: 'http://flickr.com/photos/{username}/'
     },
     wordpress: {
         name: 'Wordpress',
-	icon: 'https://ddgw.s3.amazonaws.com/wordpress.org.ico',
+	icon: 'wikiicons/openidlogin-wordpress.ico',
         label: 'Enter your Wordpress.com username:',
         url: 'http://{username}.wordpress.com/'
     },
     myopenid: {
         name: 'MyOpenID',
-	icon: 'http://myopenid.com/favicon.ico',
+	icon: 'wikiicons/openidlogin-myopenid.ico',
         label: 'Enter your MyOpenID username:',
         url: 'http://{username}.myopenid.com/'
     },
     claimid: {
         name: 'ClaimID',
-	icon: 'http://claimid.com/favicon.ico',
+	icon: 'wikiicons/openidlogin-claimid.ico',
         label: 'Enter your ClaimID username:',
         url: 'http://claimid.com/{username}'
     },
     aol: {
         name: 'AOL',     
-	icon: 'http://aol.com/favicon.ico',
+	icon: 'wikiicons/openidlogin-aol.ico',
         label: 'Enter your AOL username:',
         url: 'http://openid.aol.com/{username}'
     },
     verisign: {
         name: 'Verisign',
-	icon: 'http://verisign.com/favicon.ico',
+	icon: 'wikiicons/openidlogin-verisign.ico',
         label: 'Enter your Verisign username:',
         url: 'http://{username}.pip.verisignlabs.com/'
     }
