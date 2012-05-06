@@ -6,7 +6,7 @@
 
 #Learn About Good Tutorials
 
-[[Some things to keep in mind|learn]] when considering a quality of a tutorial. 
+[[Some things to keep in mind|learn]] when considering a quality of a tutorial.
 
 #Recommended Tutorials
 
@@ -286,8 +286,8 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://www.haypocalc.com/tmp/unicode-2011-07-20/html/programming_languages.html#perl
 * http://www.devdaily.com/perl/ http://www.devdaily.com/perl/edu/ http://www.devdaily.com/perl/edu/qanda/ http://www.devdaily.com/perl/pgms/ http://www.devdaily.com/perl/recipes/
 * http://www.cambridge.org/pt/knowledge/isbn/item6617689
+* http://www.cs.mcgill.ca/~abatko/computers/programming/perl/howto/hash/
 
 # Not Recommended
 
 There is a big number of tutorials that cannot be recommended even as legacy tutorials. You can find these, along with their rejection reasons [[on their own page|rejected]].
-Status
