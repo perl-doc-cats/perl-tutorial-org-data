@@ -287,6 +287,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://www.devdaily.com/perl/ http://www.devdaily.com/perl/edu/ http://www.devdaily.com/perl/edu/qanda/ http://www.devdaily.com/perl/pgms/ http://www.devdaily.com/perl/recipes/
 * http://www.cambridge.org/pt/knowledge/isbn/item6617689
 * http://www.cs.mcgill.ca/~abatko/computers/programming/perl/howto/hash/
+* http://www.sitepoint.com/file-download-script-perl/
 
 # Not Recommended
 
