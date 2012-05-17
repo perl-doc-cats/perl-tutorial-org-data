@@ -288,6 +288,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://www.cambridge.org/pt/knowledge/isbn/item6617689
 * http://www.cs.mcgill.ca/~abatko/computers/programming/perl/howto/hash/
 * http://www.sitepoint.com/file-download-script-perl/
+* http://rexswain.com/perl5.html
 
 # Not Recommended
 
