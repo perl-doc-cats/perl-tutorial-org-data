@@ -291,6 +291,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://rexswain.com/perl5.html
 * http://www.t-scripts.com/perl/
 * http://www.perlhowto.com/
+* http://www.perlfect.com/articles/
 
 # Not Recommended
 
