@@ -8,7 +8,7 @@ Some things to look for:
 
 Yes that's Perl not PERL. The community is very adamant about this, so if the tutorial says PERL you know that it is written by someone outside the Perl community.
 
-**The current Perl version is 5.14, the year is 2012** 
+**The current Perl version is 5.16, the year is 2012** 
 
 Many tutorials that were great for Perl 4, or even 5.6 are now woefully out of date. If there is a date on the tutorial older than about 2007 or Perl version 5.10, it will be missing many of the new features and may use older, more dangerous syntax.
 
@@ -52,6 +52,10 @@ Separating the open type, `<` or `>` (for read and write, respectively) from the
 Checking to make sure that open succeeded is also recommended. The snippet above does this with the `or die ...` conditional. Another simple way to accomplish this task is to `use autodie` near the top of the script. Would you want your code to work on a file that didn't open correctly? I doubt it.
 
 A good tutorial should do, or at least mention, all of the previous concerns. If they lax on checking success on opening after mentioning it, this is probably acceptable (from a purely space-saving perspective). If not, move on.
+
+**Modern Subroutine Calling**
+
+Avoid tutorials which invoke subroutines as `&subname()`. Perl 4 required that subroutines were called with a leading ampersand `&`. In Perl 5 this still has meaning, but is not likely what you mean, and certainly shouldn't be taught in an introduction lesson. If a tutorial teaches this convention, it is at best woefully out of date, and at worst written by someone who does not understand the implications of the new convention.
 
 **Preach code reuse**
 
