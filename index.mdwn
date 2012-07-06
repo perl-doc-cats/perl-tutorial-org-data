@@ -28,10 +28,10 @@ These are fresh tutorials that teach a modern style of Perl. They are great for 
 [[!tuttable  id=tutorial_rows yaml="""
 tutorials:
 
--   url:        http://szabgab.com/perl_tutorial.html
-    name:       Gabor Szabo's Perl Tutorial
+-   url:        http://perl5maven.com/perl-tutorial
+    name:       Gabor Szabo's Perl Maven Tutorial
     type:       Web + PDF + Video
-    version:    5.10
+    version:    5.* or newer
     covers:     Perl Basics
     size:       Medium
     lang:       EN
