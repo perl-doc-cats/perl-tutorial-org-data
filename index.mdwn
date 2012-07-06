@@ -16,7 +16,7 @@ These are fresh tutorials that teach a modern style of Perl. They are great for 
     <tr>
         <th>Name</th>
         <th>Type</th>
-        <th>Perl</th>
+        <th>Min. Perl</th>
         <th>Covers</th>
         <th>Size</th>
         <th>Lang</th>
@@ -31,7 +31,7 @@ tutorials:
 -   url:        http://perl5maven.com/perl-tutorial
     name:       Gabor Szabo's Perl Maven Tutorial
     type:       Web + PDF + Video
-    version:    5.* or newer
+    version:    5.10
     covers:     Perl Basics
     size:       Medium
     lang:       EN
