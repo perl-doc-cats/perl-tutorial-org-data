@@ -293,6 +293,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://www.perlhowto.com/
 * http://www.perlfect.com/articles/
 * http://ynonperek.com/course/advanced-perl/about
+* http://www.higherpass.com/Perl/Tutorials/
 
 # Not Recommended
 
