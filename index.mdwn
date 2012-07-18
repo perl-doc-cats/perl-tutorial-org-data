@@ -158,6 +158,17 @@ These are old Perl tutorials that are well written and good references for old v
 legacy:         1
 tutorials:
 
+-   url:         http://perltuts.com/
+    name:        Interactive Perl Tutorials
+    type:        Web
+    version:     5.10
+    covers:      Perl Basics
+    size:        Small
+    lang:        EN
+    status:      In development
+    lastupdate:  2012.07.18
+    description: Just being written and very much beta, it will be recommended once it leaves BETA phase.
+
 -   url:         http://shop.oreilly.com/product/9780596004927.do
     name:        Programming Perl 4th
     type:        Book + PDF
@@ -299,3 +310,4 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 # Not Recommended
 
 There is a big number of tutorials that cannot be recommended even as legacy tutorials. You can find these, along with their rejection reasons [[on their own page|rejected]].
+th
