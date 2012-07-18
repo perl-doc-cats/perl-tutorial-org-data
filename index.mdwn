@@ -28,6 +28,17 @@ These are fresh tutorials that teach a modern style of Perl. They are great for 
 [[!tuttable  id=tutorial_rows yaml="""
 tutorials:
 
+-   url:         http://perltuts.com/
+    name:        Interactive Perl Tutorials
+    type:        Web
+    version:     5.10
+    covers:      Perl Basics
+    size:        Small
+    lang:        EN
+    status:      In development
+    lastupdate:  2012.07.18
+    description: No need to install Perl! Just read the tutorial and try out your Perl code on the website!
+
 -   url:        http://perl5maven.com/perl-tutorial
     name:       Gabor Szabo's Perl Maven Tutorial
     type:       Web + PDF + Video
@@ -157,17 +168,6 @@ These are old Perl tutorials that are well written and good references for old v
 [[!tuttable  id=tutorial_rows yaml="""
 legacy:         1
 tutorials:
-
--   url:         http://perltuts.com/
-    name:        Interactive Perl Tutorials
-    type:        Web
-    version:     5.10
-    covers:      Perl Basics
-    size:        Small
-    lang:        EN
-    status:      In development
-    lastupdate:  2012.07.18
-    description: Just being written and very much beta, it will be recommended once it leaves BETA phase.
 
 -   url:         http://shop.oreilly.com/product/9780596004927.do
     name:        Programming Perl 4th
