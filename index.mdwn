@@ -68,6 +68,7 @@ tutorials:
     lang:       EN
     status:     Complete
     lastupdate: 2012.02.28
+    isbn:       978-0977920174
 
 -   url:        http://search.cpan.org/perldoc?perlootut
     name:       perlootut
@@ -140,6 +141,7 @@ tutorials:
     lang:       EN
     status:     Complete
     lastupdate: 2005.05
+    isbn:       978-1558607019
 
 """]]
 
