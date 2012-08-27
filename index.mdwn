@@ -147,7 +147,7 @@ tutorials:
 
 </table>
 
-(The word "Ebook" is used if it's available in a scalable version like epub or mobipocket; it should not be used for PDF since that is a fixed format not very well readable on ebook readers).
+(The word "Ebook" is used if it's available in a scalable version like epub or mobipocket; it should not be used for PDF, since that is a fixed format, which is not very readable on ebook readers).
 
 #Legacy Tutorials
 
