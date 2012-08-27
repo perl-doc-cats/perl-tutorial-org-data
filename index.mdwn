@@ -2,7 +2,7 @@
 
 #Introduction
 
-"There Is More Than One Way To Do It" is true for both writing **and** learning Perl. Here we collect fresh Perl tutorials so you can find one that fits **you** best.
+"There Is More Than One Way To Do It" is true for both writing **and** learning Perl. Here we collect fresh Perl tutorials, so you can find one that fits **you** best.
 
 #Learn About Good Tutorials
 
