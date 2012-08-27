@@ -243,15 +243,15 @@ tutorials:
 
 The site is not yet complete, here are some ideas of what we might want to do with it. Want to help? Stop by in the IRC channel or find out more about the code of the site on the [[about]] page.
 
-* in order to create free page links without breaking the repo on windows the ikiwiki code needs to be adapted to encode page filenames and urls
-* country flags for the language?
-* figure out how to structure tutorials/howtos written on this site
-* add reddit button to the tutorial tables
-* a linkable button? "Learn Perl - Your Way" (see promotejs.com)
-* needs a proper design
-* write an [[Tutorial Author Outreach/Email Template]] to be sent to tutorial authors explaining about perl-tutorial.org and inviting them to keep their entries updated
-* send aforementioned email out to authors, will need a [[Tutorial Author Outreach/Contact List]] to track who was sent something
-* add a jquery hover tooltip that will show a more detailed description of a tutorial based on a YAML key
+* In order to create free page links without breaking the repo on Windows the ikiwiki code needs to be adapted to encode page filenames and urls.
+* Country flags for the language?
+* Figure out how to structure tutorials/HOWTOs written on this site.
+* Add Reddit buttons to the tutorial tables.
+* A linkable button? "Learn Perl - Your Way" (see promotejs.com).
+* Needs a proper design.
+* Write an [[Tutorial Author Outreach/Email Template]] to be sent to tutorial authors explaining about perl-tutorial.org and inviting them to keep their entries updated.
+* Send aforementioned email out to authors, will need a [[Tutorial Author Outreach/Contact List]] to track who was sent them.
+* Add a jQuery hover tooltip that will show a more detailed description of a tutorial based on a YAML key.
 
 # Uncurated Tutorials
 
