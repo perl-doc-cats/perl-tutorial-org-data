@@ -11,8 +11,10 @@ Here are tutorials that have been looked over and can't be recommended for sever
     lang:       ES
     status:     Complete
 
-* http://www.perltutorial.org/ - 2011-11-04 - does not use strict, warnings or my() anywhere in the main tutorial; introduces c-style for loop (a foreach style loop is used later but not explained); suggests subroutine calls with ampersand without explaining
+* www.perltutorial.org/ - 2011-11-04 - does not use strict, warnings or my() anywhere in the main tutorial; introduces c-style for loop (a foreach style loop is used later but not explained); suggests subroutine calls with ampersand without explaining
 
-* http://www.tizag.com/perlT/ - 2011-11-05 - Besides the weak orthography and diction, numerous mistakes and shortcomings. [[There are way too many issues to list them all here.|rejected/Tizag]]
+* www.tizag.com/perlT/ - 2011-11-05 - Besides the weak orthography and diction, numerous mistakes and shortcomings. [[There are way too many issues to list them all here.|rejected/Tizag]]
 
 * [[Programming Perl 4th Edition|rejected/prog_perl_4th]]
+
+* www.tutorialspoint.com/perl/perl_cgi.htm: CGI is error-prone. Use instead a moderl perl web engine that will make it easier to build your webapp cleanly and avoid many security issues. Examples: [[Dancer|http://www.perldancer.org/]], [[Mojolicious|http://mojolicious.org/]]...
