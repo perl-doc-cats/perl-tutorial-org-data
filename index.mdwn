@@ -32,9 +32,9 @@ tutorials:
     name:        Interactive Perl Tutorials
     type:        Web
     version:     5.10
-    covers:      Perl Basics
+    covers:      Perl Basics, DBI, LWP
     size:        Small
-    lang:        EN
+    lang:        EN, PT_BR
     status:      In development
     lastupdate:  2012.07.18
     description: No need to install Perl! Just read the tutorial and try out your Perl code on the website!
