@@ -30,7 +30,7 @@ tutorials:
 
 -   url:         http://perltuts.com/
     name:        Interactive Perl Tutorials
-    type:        Web
+    type:        Web + POD
     version:     5.10
     covers:      Perl Basics, DBI, LWP
     size:        Small
