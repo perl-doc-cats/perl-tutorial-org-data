@@ -91,7 +91,7 @@ tutorials:
     lastupdate: 2011.07.31
 
 -   url:        http://qntm.org/files/perl/perl_jp.html
-    name:       2&#26178;&#38291;&#21322;&#12391;&#23398;&#12406;Perl (Learn Perl in about 2 hours 30 minutes)
+    name:       2&#26178;&#38291;&#21322;&#12391;&#23398;&#12406;Perl
     type:       Web
     version:    5.8
     covers:     Perl Basics
@@ -99,6 +99,7 @@ tutorials:
     lang:       JA
     status:     Complete
     lastupdate: 2011.07.31
+    description: (Learn Perl in about 2 hours 30 minutes)
 
 -   url:         http://nereida.deioc.ull.es/~pp2/perlexamples/perlexamples.html
     name:        Programaci&oacute;n Distribuida
