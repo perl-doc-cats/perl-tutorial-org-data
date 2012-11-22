@@ -264,6 +264,16 @@ tutorials:
     status:     Complete
     lastupdate: 2002.07
 
+-   url:        http://www.troubleshooters.com/codecorn/littperl/
+    name:       Steve Litt's Perls of Wisdom
+    type:       Web
+    version:    5.6
+    covers:     Perl Basics
+    size:       Medium
+    lang:       EN
+    status:     Complete
+    lastupdate: 2003
+
 
 
 """]]
@@ -320,7 +330,6 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * Unix and Perl Primer for Biologists http://korflab.ucdavis.edu/Unix_and_Perl/
 * http://perlgeek.de/de/artikel/charsets-unicode german unicode tutorial, 2008, perl 5.8
 * http://www.slideshare.net/brian_d_foy/perl-university
-* http://www.troubleshooters.com/codecorn/littperl/
 * http://www.tutorialspoint.com/perl/
 * http://www.cs.cf.ac.uk/Dave/PERL/
 * http://vsbabu.org/tutorials/perl/
