@@ -52,11 +52,11 @@ tutorials:
     name:        Interactive Perl Tutorials
     type:        Web + POD
     version:     5.10
-    covers:      Perl Basics, DBI, LWP
+    covers:      Perl Basics, DBI, LWP, Unicode
     size:        Small
     lang:        EN, PT_BR, RU
     status:      In development
-    lastupdate:  2012.07.18
+    lastupdate:  2013.01.04
     description: No need to install Perl! Just read the tutorial and try out your Perl code on the website!
 
 -   url:        http://perl5maven.com/perl-tutorial
