@@ -143,6 +143,16 @@ tutorials:
     lastupdate:  2011.04.15
     description: Functional, Imperative and Object Oriented Programming with Perl. Principios de Programaci&oacute;n Imperativa, Funcional y Orientada a Objetos Una Introducci&oacute;n en Perl
 
+-   url:        http://www.ignition-training.com/booklets/perldistilled.pdf
+    name:       Perl Distilled
+    type:       PDF
+    version:    5.10
+    covers:     Model of Fundamentals
+    size:       Small
+    lang:       EN
+    status:     Complete
+    lastupdate: 2010.12.20
+
 -   url:        http://perldoc.perl.org/perlintro.html
     name:       perlintro
     type:       Web
