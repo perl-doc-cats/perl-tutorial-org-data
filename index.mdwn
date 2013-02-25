@@ -6,7 +6,7 @@
 
 #Learn About Good Tutorials
 
-[[Some things to keep in mind|learn]] when considering a quality of a tutorial.
+[[Some things to keep in mind|learn]] when considering the quality of a tutorial.
 
 #Recommended Tutorials
 
