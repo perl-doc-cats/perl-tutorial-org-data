@@ -17,4 +17,4 @@ Here are tutorials that have been looked over and can't be recommended for sever
 
 * [[Programming Perl 4th Edition|rejected/prog_perl_4th]]
 
-* www.tutorialspoint.com/perl/perl_cgi.htm - 2012-08-31: CGI is error-prone. Use instead a moderl perl web engine that will make it easier to build your webapp cleanly and avoid many security issues. Examples: [[Dancer|http://www.perldancer.org/]], [[Mojolicious|http://mojolicious.org/]]...
+* www.tutorialspoint.com/perl/ - 2013-02-27: teaches Perl 5.1 in a very outdated style and violates almost all of [[learn]]
