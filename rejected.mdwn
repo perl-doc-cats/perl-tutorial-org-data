@@ -2,14 +2,7 @@
 
 Here are tutorials that have been looked over and can't be recommended for several reasons. The date of the check is listed. If you think the evaluation is not true anymore let us know.
 
-* http://es.tldp.org/Tutoriales/PERL/tutoperl-html/ - 2003.03.22.
-    name:       Tutorial de PERL en castellano
-    type:       Web
-    version:    5.6
-    covers:     Perl Basics
-    size:       Small
-    lang:       ES
-    status:     Complete
+* es.tldp.org/Tutoriales/PERL/tutoperl-html/ - 2013-02-27: teaches Perl 5.8 in a very outdated style and violates almost all of [[learn]]
 
 * www.perltutorial.org/ - 2011-11-04 - does not use strict, warnings or my() anywhere in the main tutorial; introduces c-style for loop (a foreach style loop is used later but not explained); suggests subroutine calls with ampersand without explaining
 
