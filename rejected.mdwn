@@ -15,6 +15,6 @@ Here are tutorials that have been looked over and can't be recommended for sever
 
 * www.tizag.com/perlT/ - 2011-11-05 - Besides the weak orthography and diction, numerous mistakes and shortcomings. [[There are way too many issues to list them all here.|rejected/Tizag]]
 
-* [[Programming Perl 4th Edition|rejected/prog_perl_4th]]
+* [[Programming Perl 4th Edition|rejected/prog_perl_4th]] - 2012-02-21
 
 * www.tutorialspoint.com/perl/ - 2013-02-27: teaches Perl 5.1 in a very outdated style and violates almost all of [[learn]]
