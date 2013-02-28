@@ -28,6 +28,16 @@ These are fresh tutorials that teach a modern style of Perl. They are great for 
 [[!tuttable  id=tutorial_rows yaml="""
 tutorials:
 
+-   url:         http://rjbs.manxome.org/talks/moose/
+    name:        Moose is Perl: A Guide to the New Revolution
+    type:        PDF
+    version:     5.*
+    covers:      Moose
+    size:        Medium
+    lang:        EN
+    status:      Complete
+    lastupdate:  2012.07.19
+
 -   url:         http://www.wrox.com/WileyCDA/WroxTitle/Beginning-Perl.productCd-1118013840.html
     name:        Beginning Perl (Curtis 'Ovid' Poe)
     type:        Book
