@@ -29,7 +29,7 @@ These are fresh tutorials that teach a modern style of Perl. They are great for 
 tutorials:
 
 -   url:         http://rjbs.manxome.org/talks/moose/
-    name:        Moose is Perl: A Guide to the New Revolution
+    name:        "Moose is Perl: A Guide to the New Revolution"
     type:        PDF
     version:     5.*
     covers:      Moose
