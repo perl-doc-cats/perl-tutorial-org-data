@@ -77,7 +77,7 @@ tutorials:
     size:       Medium
     lang:       EN
     status:     In development
-    lastupdate: 2013.02.26
+    lastupdate: 2013.03.02
 
 -   url:        http://learn.perl.org/
     name:       "Learn Perl Website"
