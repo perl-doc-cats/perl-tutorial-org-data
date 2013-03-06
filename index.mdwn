@@ -367,6 +367,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://ynonperek.com/course/advanced-perl/about
 * http://www.higherpass.com/Perl/Tutorials/
 * http://perltuts.com/tutorials/
+* http://alison.com/courses/Perl-Programming
 
 # Not Recommended
 
