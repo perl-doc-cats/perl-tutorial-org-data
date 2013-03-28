@@ -1,4 +1,4 @@
-This site is meant to be a publically editable and curated collection of Perl tutorials. It is based on IkiWiki and uses Git as backend, with the wiki data in fact being stored on Github itself. This means that to edit the wiki you can use either the web interfaces, or fork the data repo and send pull requests on github.
+This site is meant to be a publically editable and curated collection of Perl tutorials. It is based on Ikiwiki and uses Git as backend, with the wiki data in fact being stored on Github itself. This means that to edit the wiki you can use either the web interfaces, or fork the data repo and send pull requests on github.
 
 The wiki has two main repositories:
 
