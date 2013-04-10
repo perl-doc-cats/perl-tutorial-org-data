@@ -75,9 +75,9 @@ tutorials:
     version:    5.8
     covers:     Perl Basics
     size:       Medium
-    lang:       EN
+    lang:       EN, PT_BR, RU, ZH 
     status:     In development
-    lastupdate: 2013.03.02
+    lastupdate: 2013.04.10
 
 -   url:        http://learn.perl.org/
     name:       "Learn Perl Website"
