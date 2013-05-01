@@ -69,7 +69,7 @@ tutorials:
     lastupdate:  2013.01.04
     description: No need to install Perl! Just read the tutorial and try out your Perl code on the website!
 
--   url:        http://perl5maven.com/perl-tutorial
+-   url:        http://perlmaven.com/perl-tutorial
     name:       Gabor Szabo's Perl Maven Tutorial
     type:       Web + PDF + Video
     version:    5.8
