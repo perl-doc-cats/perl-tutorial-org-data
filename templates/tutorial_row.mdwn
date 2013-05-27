@@ -4,7 +4,7 @@
         <td><TMPL_VAR version></td>
         <td><TMPL_VAR covers></td>
         <td><TMPL_VAR size></td>
-        <td><TMPL_VAR lang></td>
+        <td style="width: 3em !important;"><TMPL_VAR lang></td>
         <td><TMPL_VAR status></td>
         <td><TMPL_VAR lastupdate></td>
         <td>
@@ -12,3 +12,4 @@
             <a href="https://twitter.com/share" class="twitter-share-button" data-url="<TMPL_VAR url>" data-text="I like this Perl tutorial!" data-count="horizontal">Tweet</a>
         </td>
     </tr>
+td
