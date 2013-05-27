@@ -10,7 +10,7 @@
             <td><TMPL_VAR version></td>
             <td><TMPL_VAR covers></td>
             <td><TMPL_VAR size></td>
-            <td><TMPL_VAR lang></td>
+            <td style="width: 6em !important;"><TMPL_VAR lang></td>
             <td><TMPL_VAR status></td>
             <td><TMPL_VAR lastupdate></td>
             <td>
