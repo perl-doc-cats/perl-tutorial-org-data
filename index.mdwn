@@ -48,7 +48,7 @@ tutorials:
     status:      Complete
     lastupdate:  2012.09.19
 
--   url:         http://ofps.oreilly.com/titles/9781118013847/
+-   url:         http://web.archive.org/web/20130523215745/http://ofps.oreilly.com/titles/9781118013847/index.html
     name:        Beginning Perl (Curtis 'Ovid' Poe)
     type:        Web
     version:     5.8
