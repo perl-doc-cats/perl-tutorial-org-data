@@ -19,7 +19,7 @@ These are fresh tutorials that teach a modern style of Perl. They are great for 
         <th>Min. Perl</th>
         <th>Covers</th>
         <th>Size</th>
-        <th>Lang</th>
+        <th width="100">Lang</th>
         <th>Status</th>
         <th>Last Updated</th>
         <th>Popularity</th>
