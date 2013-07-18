@@ -29,7 +29,7 @@ These are fresh tutorials that teach a modern style of Perl. They are great for 
 tutorials:
 
 -   url:         http://d.hatena.ne.jp/perlcodesample/30000101/1361667605
-    name:        "サンプルコードによるPerl入門 目次"
+    name:        Sanpuru codo ni yoru perl nyuumon
     type:        Web
     version:     5.*
     covers:      Perl Basics
@@ -385,3 +385,4 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 
 There is a large number of tutorials that cannot be recommended even as legacy tutorials. You can find these, along with their rejection reasons [[on their own page|rejected]].
 
+tut
