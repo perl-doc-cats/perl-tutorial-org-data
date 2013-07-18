@@ -71,7 +71,7 @@ tutorials:
 
 -   url:         http://perltuts.com/
     name:        Interactive Perl Tutorials
-    type:        Web + POD
+    type:        Web, POD
     version:     5.10
     covers:      Perl Basics, DBI, LWP, Unicode
     size:        Small
@@ -82,7 +82,7 @@ tutorials:
 
 -   url:        http://perlmaven.com/perl-tutorial
     name:       Gabor Szabo's Perl Maven Tutorial
-    type:       Web + PDF + Video
+    type:       Web, PDF, Video
     version:    5.8
     covers:     Perl Basics
     size:       Medium
@@ -102,7 +102,7 @@ tutorials:
 
 -   url:        http://onyxneon.com/books/modern_perl/
     name:       "Modern Perl: The Book 2011-2012"
-    type:       PDF + Book
+    type:       PDF, Book
     version:    5.14
     covers:     Perl Basics
     size:       Large
@@ -155,7 +155,7 @@ tutorials:
 
 -   url:         http://nereida.deioc.ull.es/~lhp/perlexamples/
     name:        Una Introducci&oacute;n a Perl
-    type:        PS + HTML
+    type:        PS, HTML
     version:     5.8
     covers:      Perl Basics
     size:        Large
@@ -186,7 +186,7 @@ tutorials:
 
 -   url:        http://www.shmuelfomberg.com/perlhebtut/
     name:       Hebrew Perl Tutorial
-    type:       Web + PDF
+    type:       Web, PDF
     version:    5.10
     covers:     Perl Basics
     size:       Large
@@ -196,7 +196,7 @@ tutorials:
 
 -   url:        http://hop.perl.plover.com
     name:       Higher-Order Perl
-    type:       PDF + Book
+    type:       PDF, Book
     version:    5.8.6
     covers:     Very Advanced Techniques
     size:       Large
@@ -235,7 +235,7 @@ tutorials:
 
 -   url:         http://shop.oreilly.com/product/9780596004927.do
     name:        Programming Perl 4th
-    type:        Book + PDF
+    type:        Book, PDF
     version:     5.14
     covers:      Broad Reference
     size:        Large
@@ -246,7 +246,7 @@ tutorials:
 
 -   url:        http://perl-seiten.privat.t-online.de
     name:       Eike Grote's German Perl Tutorial
-    type:       Web + PDF
+    type:       Web, PDF
     version:    5.6
     covers:     Perl Basics
     size:       Large
@@ -267,7 +267,7 @@ tutorials:
 
 -   url:        http://geneura.ugr.es/~jmerelo/tutoriales/perl-apresurados/
     name:       Perl para apresurados
-    type:       Web + DocBook + PDF
+    type:       Web, DocBook, PDF
     version:    5.8.7
     covers:     Perl Basics
     size:       Small
