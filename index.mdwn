@@ -28,6 +28,17 @@ These are fresh tutorials that teach a modern style of Perl. They are great for 
 [[!tuttable  id=tutorial_rows yaml="""
 tutorials:
 
+-   url:         http://d.hatena.ne.jp/perlcodesample/30000101/1361667605
+    name:        "サンプルコードによるPerl入門 目次"
+    type:        Web
+    version:     5.*
+    covers:      Perl Basics
+    size:        Medium
+    lang:        JP
+    status:      Complete
+    lastupdate:  2013.03.05
+    description: Perl Tutorial by code examples
+
 -   url:         http://rjbs.manxome.org/talks/moose/
     name:        "Moose is Perl: A Guide to the New Revolution"
     type:        PDF
