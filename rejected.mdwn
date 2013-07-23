@@ -11,3 +11,5 @@ Here are tutorials that have been looked over and can't be recommended for sever
 * [[Programming Perl 4th Edition|rejected/prog_perl_4th]] - 2012-02-21
 
 * www.tutorialspoint.com/perl/ - 2013-02-27: teaches Perl 5.1 in a very outdated style and violates almost all of [[learn]]
+
+* [[Learning Perl 6th Edition|rejected/learning_perl_6th]] - 2013-07-23
