@@ -47,7 +47,7 @@ tutorials:
     size:        Medium
     lang:        EN
     status:      Complete
-    lastupdate:  2012.07.19
+    lastupdate:  2013.08.09
 
 -   url:         http://www.wrox.com/WileyCDA/WroxTitle/Beginning-Perl.productCd-1118013840.html
     name:        Beginning Perl (Curtis 'Ovid' Poe)
