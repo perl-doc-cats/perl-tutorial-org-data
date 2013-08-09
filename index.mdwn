@@ -81,7 +81,7 @@ tutorials:
     description: No need to install Perl! Just read the tutorial and try out your Perl code on the website!
 
 -   url:        http://perlmaven.com/perl-tutorial
-    name:       Gabor Szabo's Perl Maven Tutorial
+    name:       Perl Maven Tutorial (Gabor Szabo)<br>for Perl Programming
     type:       Web, PDF, Video
     version:    5.8
     covers:     Perl Basics
