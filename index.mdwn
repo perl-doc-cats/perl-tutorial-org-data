@@ -88,7 +88,7 @@ tutorials:
     size:       Medium
     lang:       EN, PT_BR, RU, ZH-Hans, ZH-Hant, KO, IT, FR, RO, ID, DE
     status:     In development
-    lastupdate: 2013.08.08
+    lastupdate: 2013.08.26
 
 -   url:        http://learn.perl.org/
     name:       "Learn Perl Website"
