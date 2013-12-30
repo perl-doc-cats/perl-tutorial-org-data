@@ -194,7 +194,7 @@ tutorials:
     lastupdate: 2005.05
     isbn:       978-1558607019
 
--   url:        http://www.learnhowtoprogamperl.info
+-   url:        http://www.learnhowtoprogramperl.info
     name:       Learn How to Program Perl
     type:      Web, Video
     version:    5.8.6
