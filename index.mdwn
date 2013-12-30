@@ -194,6 +194,16 @@ tutorials:
     lastupdate: 2005.05
     isbn:       978-1558607019
 
+-   url:        http://www.learnhowtoprogamperl.info
+    name:       Learn How to Program Perl
+    type:      Web, Video
+    version:    5.8.6
+    covers:     Perl and Programming Basics
+    size:       Small, but growing
+    lang:       EN
+    status:     In development
+    lastupdate: 2013.12.29
+   
 """]]
 
 </table>
