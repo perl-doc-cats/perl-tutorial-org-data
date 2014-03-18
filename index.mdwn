@@ -42,7 +42,7 @@ tutorials:
 -   url:         http://rjbs.manxome.org/talks/moose/
     name:        "Moose is Perl: A Guide to the New Revolution"
     type:        PDF
-    version:     5.*
+    version:     5.8
     covers:      Moose
     size:        Medium
     lang:        EN
