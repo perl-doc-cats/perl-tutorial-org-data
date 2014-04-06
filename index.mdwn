@@ -101,15 +101,15 @@ tutorials:
     lastupdate: 2011.10.28
 
 -   url:        http://onyxneon.com/books/modern_perl/
-    name:       "Modern Perl: The Book 2011-2012"
+    name:       "Modern Perl: The Book 2014"
     type:       PDF, Book
     version:    5.14
     covers:     Perl Basics
     size:       Large
     lang:       EN
     status:     Complete
-    lastupdate: 2012.02.28
-    isbn:       978-0977920174
+    lastupdate: 2014.01.31
+    isbn:       978-0985451943
 
 -   url:        http://search.cpan.org/perldoc?perlootut
     name:       perlootut
