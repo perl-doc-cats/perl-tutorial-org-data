@@ -193,6 +193,16 @@ tutorials:
     status:     Complete
     lastupdate: 2005.05
     isbn:       978-1558607019
+
+-   url:        http://www.perltk.de/tk_widgets/howto_introduction_perl_tk.html
+    name:       Introduction to Perl/Tk
+    type:       Web
+    version:    5.16.2
+    covers:     GUIs with Perl/Tk
+    size:       Medium
+    lang:       DE
+    status:     Complete
+    lastupdate: 2014.04.20
    
 """]]
 
