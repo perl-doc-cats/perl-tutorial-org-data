@@ -85,10 +85,10 @@ tutorials:
     type:       Web, PDF, Video
     version:    5.8
     covers:     Perl Basics
-    size:       Medium
+    size:       Large
     lang:       EN, PT_BR, RU, ZH-Hans, ZH-Hant, KO, IT, FR, RO, ID, DE
     status:     In development
-    lastupdate: 2014.04.11
+    lastupdate: 2014.04.29
 
 -   url:        http://learn.perl.org/
     name:       "Learn Perl Website"
