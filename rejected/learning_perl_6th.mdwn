@@ -6,7 +6,7 @@ Learning Perl 6th Edition is a book with a lot of history. Huge parts of its con
 * The first filehandles encountered are of the bareword kind. Others have written mounds on why this is not a wise choice and i do not think this should be one of the first things a newbie sees.
 * The very first code example touted as a real Perl program is this:<pre>
      #!/usr/bin/perl
-     @lines = `perldoc -u -f atan2`;
+     @lines = \`perldoc -u -f atan2\`;
      foreach (@lines) {
          s/\w<([^>]+)>/\U$1/g;
          print;
