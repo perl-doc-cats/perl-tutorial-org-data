@@ -8,7 +8,7 @@ Some things to look for:
 
 Yes that's Perl not PERL. The community is very adamant about this, so if the tutorial says PERL you know that it is written by someone outside the Perl community.
 
-**The current Perl version is 5.18, the year is 2013** 
+**The current Perl version is 5.20, the year is 2014** 
 
 Many tutorials that were great for Perl 4, or even 5.6 are now woefully out of date. If there is a date on the tutorial older than about 2007 or Perl version 5.10, it will be missing many of the new features and may use older, more dangerous syntax.
 
@@ -61,7 +61,7 @@ Avoid tutorials which invoke subroutines as `&subname()`. Perl 4 required that s
 
 Perl is good at munging text, however, for all but simple cases, you might want to use standard modules when appropriate. A new user should probably know how to parse out a basic line of comma-separated text, and a tutorial can show you how to do it manually. That said, a very good tutorial will mention that this is very fragile and that you should, in practice use the Text::CSV module. Same goes for HTML, XML, JSON and other formats.
 
-Finally while code-reuse is a good idea, it can only be as good as the code that is being reused. The CGI.pm module helped put Perl on the map, but its days are numbered. Indeed it is scheduled to be removed from the Perl core in Perl version 5.20 (though it will still be available via CPAN). A tutorial that spends too much time on it is probably too old to trust.
+Finally while code-reuse is a good idea, it can only be as good as the code that is being reused. The CGI.pm module helped put Perl on the map, but its days are numbered. Indeed it has been removed from the Perl core in Perl version 5.20 (though it is still available via CPAN). A tutorial that spends too much time on it is probably too old to trust.
 
 **Starting a Module**
 
