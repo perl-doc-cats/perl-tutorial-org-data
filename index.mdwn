@@ -28,6 +28,18 @@ These are fresh tutorials that teach a modern style of Perl. They are great for 
 [[!tuttable  id=tutorial_rows yaml="""
 tutorials:
 
+
+-   url:         https://geekuni.com/
+    name:        "Geekuni: Perl Essentials and Web Development"
+    type:        Web
+    version:     5.14
+    covers:      Perl Basics + Dancer2
+    size:        Medium
+    lang:        EN
+    status:      Complete
+    lastupdate:  2014.11.30
+    description: Interactive exercises on a cloud virtual machine. Instant Feedback and a Personal Tutor. 
+
 -   url:         http://d.hatena.ne.jp/perlcodesample/30000101/1361667605
     name:        "&#12469;&#12531;&#12503;&#12523;&#12467;&#12540;&#12489;&#12395;&#12424;&#12427;Perl&#20837;&#38272; &#30446;&#27425;"
     type:        Web
