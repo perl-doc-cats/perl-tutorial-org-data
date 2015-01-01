@@ -151,7 +151,7 @@ tutorials:
     size:        Medium
     lang:        ES
     status:      Complete
-    lastupdate:  2011.06.05
+    lastupdate:  2012.02.29
     description: Programaci&oacute;n Distribuida y Mejora del Rendimiento
 
 -   url:         http://nereida.deioc.ull.es/~lhp/perlexamples/
@@ -162,7 +162,7 @@ tutorials:
     size:        Large
     lang:        ES
     status:      Complete
-    lastupdate:  2011.04.15
+    lastupdate:  2012.06.19
     description: Functional, Imperative and Object Oriented Programming with Perl. Principios de Programaci&oacute;n Imperativa, Funcional y Orientada a Objetos Una Introducci&oacute;n en Perl
 
 -   url:        http://www.ignition-training.com/booklets/perldistilled.pdf
