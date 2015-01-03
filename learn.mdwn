@@ -8,7 +8,7 @@ Some things to look for:
 
 Yes that's Perl not PERL. The community is very adamant about this, so if the tutorial says PERL you know that it is written by someone outside the Perl community.
 
-**The current Perl version is 5.20, the year is 2014** 
+**The current Perl version is 5.20, the year is 2015** 
 
 Many tutorials that were great for Perl 4, or even 5.6 are now woefully out of date. If there is a date on the tutorial older than about 2007 or Perl version 5.10, it will be missing many of the new features and may use older, more dangerous syntax.
 
@@ -17,6 +17,8 @@ Many tutorials that were great for Perl 4, or even 5.6 are now woefully out of d
 While the `strict` and `warnings` pragmas are not required, and there are still a few people who prefer not to use them, the vast majority of Perlers do. They help prevent typos and gotchas that are very easy for even the most experienced Perlers to accidently fall into. 
 
 A good tutorial site should at least mention that these represent a good safety net, but may skip including them on each example to save space. An even better site will include them in all longer code snippets. 
+
+Note that requiring a Perl version of 5.12 or greater (e.g. `use 5.12.0`) is equivalent to using `strict`. Some other modules like `Modern::Perl`, `strictures`, `common::sense` and several others, including object systems like `Moo`, `Moose` and `Mojo::Base`, will also enable `strict` for you. Tutorials which are using Modern object systems might rely on those imports rather than stating them.
 
 Finally, you may see snippets which use a `-w` on the top line, this is a giveaway that the tutorial was probably good, but is now a little old (see above).
 
