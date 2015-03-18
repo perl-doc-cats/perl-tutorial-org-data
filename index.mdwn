@@ -94,13 +94,23 @@ tutorials:
 
 -   url:        http://perlmaven.com/perl-tutorial
     name:       Perl Maven Tutorial (Gabor Szabo)<br>for Perl Programming
-    type:       Web, PDF, Video
+    type:       Web, PDF
     version:    5.8
     covers:     Perl Basics
     size:       Large
     lang:       EN, PT_BR, RU, ZH-Hans, ZH-Hant, KO, IT, FR, RO, ID, DE
     status:     In development
-    lastupdate: 2014.04.29
+    lastupdate: 2015.03.18
+
+-   url:        http://perlmaven.com/beginner-perl-maven-video-course
+    name:       Beginner Perl Maven Video course
+    type:       Video
+    version:    5.8
+    covers:     Perl Basics
+    size:       Large
+    lang:       EN
+    status:     In development
+    lastupdate: 2015.03.18
 
 -   url:        http://learn.perl.org/
     name:       "Learn Perl Website"
