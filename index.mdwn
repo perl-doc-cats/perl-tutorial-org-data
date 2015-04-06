@@ -110,7 +110,7 @@ tutorials:
     size:       Large
     lang:       EN
     status:     In development
-    lastupdate: 2015.03.24
+    lastupdate: 2015.04.06
 
 -   url:        http://learn.perl.org/
     name:       "Learn Perl Website"
