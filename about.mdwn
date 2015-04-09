@@ -18,3 +18,10 @@ Setup process:
 1. ikiwiki -setup ~/PerlTutorialHub.setup
 1. point web server at `public_html/PerlTutorialHub`
 1. set up empty cgi handler to execute ikiwiki.cgi ELF file
+
+----
+
+Infrastructure:
+
+1. the domainname perl-tutorial.org is owned by [[tinita]] (see the whois entry)
+1. the server is a linode instance owned by [[Mithaldu]], which is used for a variety of smaller online services as well
