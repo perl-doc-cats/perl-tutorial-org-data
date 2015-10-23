@@ -99,8 +99,8 @@ tutorials:
     covers:     Perl Basics
     size:       Large
     lang:       EN, PT_BR, RU, ZH-Hans, ZH-Hant, KO, IT, FR, RO, ID, DE
-    status:     In development
-    lastupdate: 2015.03.18
+    status:     Complete
+    lastupdate: 2015.10.23
 
 -   url:        http://perlmaven.com/beginner-perl-maven-video-course
     name:       Beginner Perl Maven Video course
@@ -109,8 +109,8 @@ tutorials:
     covers:     Perl Basics
     size:       Large
     lang:       EN
-    status:     In development
-    lastupdate: 2015.04.06
+    status:     Complete
+    lastupdate: 2015.08.28
 
 -   url:        http://learn.perl.org/
     name:       "Learn Perl Website"
