@@ -225,6 +225,16 @@ tutorials:
     lang:       DE
     status:     Complete
     lastupdate: 2014.04.20
+
+-   url:        https://learnxinyminutes.com/docs/perl/
+    name:       Learn Perl in Y Minutes
+    type:       Web
+    version:    5.8
+    covers:     Perl Basics
+    size:       Small
+    lang:       EN, BG, DE, ES, FR, PL, BR, RU, CN
+    status:     Complete
+    lastupdate: 2016.04.15
    
 """]]
 
