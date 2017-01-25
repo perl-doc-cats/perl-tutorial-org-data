@@ -234,7 +234,7 @@ tutorials:
     size:       Small
     lang:       EN, BG, DE, ES, FR, PL, BR, RU, CN
     status:     Complete
-    lastupdate: 2016.04.15
+    lastupdate: 2017.01.21
    
 """]]
 
