@@ -244,7 +244,7 @@ tutorials:
 
 #Legacy Tutorials
 
-These are old Perl tutorials that are well written and good references for old versions, but should not be used by newcomers to learn Perl.
+These are old Perl tutorials that are well written and good references for old versions, but should **not** be used by newcomers to learn Perl.
 
 <table class="tut">
     <tr>
