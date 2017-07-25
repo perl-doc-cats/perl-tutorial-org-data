@@ -89,7 +89,7 @@ tutorials:
     size:        Small
     lang:        EN, PT_BR, RU
     status:      In development
-    lastupdate:  2013.01.04
+    lastupdate:  2017.01.29
     description: No need to install Perl! Just read the tutorial and try out your Perl code on the website!
 
 -   url:        http://perlmaven.com/perl-tutorial
@@ -100,7 +100,7 @@ tutorials:
     size:       Large
     lang:       EN, PT_BR, RU, ZH-Hans, ZH-Hant, KO, IT, FR, RO, ID, DE
     status:     Complete
-    lastupdate: 2015.10.23
+    lastupdate: 2016.05.12
 
 -   url:        http://perlmaven.com/beginner-perl-maven-video-course
     name:       Beginner Perl Maven Video course
@@ -234,7 +234,7 @@ tutorials:
     size:       Small
     lang:       EN, BG, DE, ES, FR, PL, BR, RU, CN
     status:     Complete
-    lastupdate: 2017.01.21
+    lastupdate: 2017.05.18
    
 """]]
 
