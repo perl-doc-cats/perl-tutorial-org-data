@@ -62,7 +62,7 @@ tutorials:
     lastupdate:  2013.08.09
 
 -   url:         http://www.wrox.com/WileyCDA/WroxTitle/Beginning-Perl.productCd-1118013840.html
-    name:        Beginning Perl (Curtis 'Ovid' Poe)
+    name:        Beginning Perl, 1st edition (Curtis 'Ovid' Poe)
     type:        Book
     version:     5.8
     covers:      Perl Basics
@@ -123,7 +123,7 @@ tutorials:
     lastupdate: 2011.10.28
 
 -   url:        http://onyxneon.com/books/modern_perl/
-    name:       "Modern Perl: The Book"
+    name:       "Modern Perl: The Book, 4th edition"
     type:       PDF, Book
     version:    5.20
     covers:     Perl Basics
@@ -206,7 +206,7 @@ tutorials:
     lastupdate: 2008.05
 
 -   url:        http://hop.perl.plover.com
-    name:       Higher-Order Perl
+    name:       Higher-Order Perl, 1st edition
     type:       PDF, Book
     version:    5.8.6
     covers:     Very Advanced Techniques
