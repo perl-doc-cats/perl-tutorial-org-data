@@ -8,7 +8,7 @@ Some things to look for:
 
 Yes that's Perl not PERL. The community is very adamant about this, so if the tutorial says PERL you know that it is written by someone outside the Perl community.
 
-**The current Perl version is 5.24, the year is 2016** 
+**The current Perl version is 5.26, the year is 2017** 
 
 Many tutorials that were great for Perl 4, or even 5.6 are now woefully out of date. If there is a date on the tutorial older than about 2007 or Perl version 5.10, it will be missing many of the new features and may use older, more dangerous syntax.
 
