@@ -235,6 +235,16 @@ tutorials:
     lang:       EN, BG, DE, ES, FR, PL, BR, RU, CN
     status:     Complete
     lastupdate: 2017.05.18
+
+-   url:        http://mvp.kablamo.org/
+    name:       Minimum Viable Perl
+    type:       Web
+    version:    5.8
+    covers:     Perl Basics
+    size:       Small
+    lang:       EN
+    status:     Complete
+    lastupdate: 2017.12.15
    
 """]]
 
