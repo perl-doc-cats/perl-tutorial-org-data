@@ -71,6 +71,6 @@ There are several systems which help a user begin authoring a module. Among thes
 
 **In Conclusion**
 
-While none of these guidelines is absolute, I think you the reader will find that most tutorials will usually fall into very good or very bad/old. Hopefully this helps you find those good Perl tutorials, and steer clear of the others.
+While none of these guidelines is absolute, I think you the reader will find that most tutorials will usually fall into very good or very bad/old. Hopefully this helps you find those good Perl tutorials, and steer clear of the others. 
 
 [[original posted at blogs.perl.org|http://blogs.perl.org/users/joel_berger/2012/02/the-perl-tutorial-tutorial.html]]
