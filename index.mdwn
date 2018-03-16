@@ -100,7 +100,7 @@ tutorials:
     size:       Large
     lang:       EN, PT_BR, RU, ZH-Hans, ZH-Hant, KO, IT, FR, RO, ID, DE
     status:     Complete
-    lastupdate: 2017.10.06
+    lastupdate: 2018.03.16
 
 -   url:        http://perlmaven.com/beginner-perl-maven-video-course
     name:       Beginner Perl Maven Video course
