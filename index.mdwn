@@ -133,7 +133,7 @@ tutorials:
     lastupdate: 2015.10.31
     isbn:       978-0985451943
 
--   url:        http://search.cpan.org/perldoc?perlootut
+-   url:        https://perldoc.pl/perlootut
     name:       perlootut
     type:       Web
     version:    5.*
