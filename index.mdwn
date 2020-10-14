@@ -133,7 +133,7 @@ tutorials:
     lastupdate: 2015.10.31
     isbn:       978-0985451943
 
--   url:        https://perldoc.pl/perlootut
+-   url:        https://perldoc.perl.org/perlootut
     name:       perlootut
     type:       Web
     version:    5.*
@@ -185,7 +185,7 @@ tutorials:
     status:     Complete
     lastupdate: 2010.12.20
 
--   url:        https://perldoc.pl/perlintro
+-   url:        https://perldoc.perl.org/perlintro
     name:       perlintro
     type:       Web
     version:    5.*
@@ -377,7 +377,7 @@ These tutorials have not yet been looked at in greater detail and thus remain un
 * http://learnperl.scratchcomputing.com/
 * http://perl-begin.org/
 * http://perl-begin.org/tutorials/perl-for-newbies/
-* http://perldoc.perl.org/index-tutorials.html (those should be checked with the git repo to see how old they are realistically)
+* https://perldoc.perl.org/perl#Tutorials (those should be checked with the git repo to see how old they are realistically)
 * http://shop.oreilly.com/product/0636920018452.do
 * http://shop.oreilly.com/product/9780596001735.do
 * http://www.amazon.com/Effective-Perl-Programming-Writing-Programs/dp/0201419750/ref=sr_1_2?s=books&ie=UTF8&qid=1319749206&sr=1-2
