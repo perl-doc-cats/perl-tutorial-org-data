@@ -13,8 +13,5 @@
             <td style="width: 6em !important;"><TMPL_VAR lang></td>
             <td><TMPL_VAR status></td>
             <td><TMPL_VAR lastupdate></td>
-            <td>
-                <a href="http://twitcount.com/btn" class="twitcount-button" data-count="horizontal" data-size="" data-url="<TMPL_VAR url>" data-text="I like this Perl tutorial!" data-related="" data-hashtag="" data-via="mithaldu">TwitCount Button</a>
-            </td>
         </tr>
     </TMPL_LOOP>
