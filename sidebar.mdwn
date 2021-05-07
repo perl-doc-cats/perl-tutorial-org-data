@@ -18,9 +18,6 @@ and
 
 [[Join us on IRC|https://kiwiirc.com/client/irc.perl.org/perl-faq]]
 
-[[!plusone url="http://perl-tutorial.org"]]<br>
-<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://perl-tutorial.org" data-text="The newest and freshest Perl Tutorials!" data-count="horizontal">Tweet</a>
-
 <a href="http://www.perl.org/">[[system/images/perlpowered.png]]</a>
 <br>and<br>
 <a href="http://ikiwiki.info/">[[system/images/ikiwiki.png]]</a>
