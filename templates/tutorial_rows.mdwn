@@ -14,7 +14,7 @@
             <td><TMPL_VAR status></td>
             <td><TMPL_VAR lastupdate></td>
             <td>
-                <a href="http://twitcount.com/btn" class="twitcount-button" data-count="horizontal" data-size="" data-url="<TMPL_VAR url>" data-text="I like this Perl tutorial!" data-related="" data-hashtag="" data-via="mithaldu">TwitCount Button</a><script type="text/javascript" src="https://static1.twitcount.com/js/button.js"></script>
+                <a href="http://twitcount.com/btn" class="twitcount-button" data-count="horizontal" data-size="" data-url="<TMPL_VAR url>" data-text="I like this Perl tutorial!" data-related="" data-hashtag="" data-via="mithaldu">TwitCount Button</a> test
             </td>
         </tr>
     </TMPL_LOOP>
