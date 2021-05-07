@@ -8,8 +8,7 @@
         <td><TMPL_VAR status></td>
         <td><TMPL_VAR lastupdate></td>
         <td>
-            [[!plusone url="<TMPL_VAR url>"]]
-            <a href="https://twitter.com/share" class="twitter-share-button" data-url="<TMPL_VAR url>" data-text="I like this Perl tutorial!" data-count="horizontal">Tweet</a>
+            <a href="http://twitcount.com/btn" class="twitcount-button" data-count="horizontal" data-size="" data-url="<TMPL_VAR url>" data-text="I like this Perl tutorial!" data-related="" data-hashtag="" data-via="mithaldu">TwitCount Button</a><script type="text/javascript" src="https://static1.twitcount.com/js/button.js"></script>
         </td>
     </tr>
 td
