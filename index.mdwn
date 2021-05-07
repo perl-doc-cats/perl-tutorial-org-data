@@ -22,7 +22,6 @@ These are fresh tutorials that teach a modern style of Perl. They are great for 
         <th width="100">Lang</th>
         <th>Status</th>
         <th>Last Updated</th>
-        <th>Popularity</th>
     </tr>
 
 [[!tuttable  id=tutorial_rows yaml="""
