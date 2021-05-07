@@ -32,12 +32,12 @@ tutorials:
 -   url:         https://geekuni.com/
     name:        "Geekuni: Perl Essentials and Web Development"
     type:        Web
-    version:     5.14
+    version:     5.30
     covers:      Perl Basics + Dancer2
     size:        Medium
     lang:        EN
     status:      Complete
-    lastupdate:  2014.11.30
+    lastupdate:  2021.05.07
     description: Interactive exercises on a cloud virtual machine. Instant Feedback and a Personal Tutor. 
 
 -   url:         http://d.hatena.ne.jp/perlcodesample/30000101/1361667605
