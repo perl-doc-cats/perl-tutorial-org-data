@@ -265,7 +265,6 @@ These are old Perl tutorials that are well written and good references for old v
         <th>Lang</th>
         <th>Status</th>
         <th>Last Updated</th>
-        <th>Popularity</th>
     </tr>
 
 
