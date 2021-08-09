@@ -1,14 +1,1 @@
-Learning Perl 6th Edition by Randal Schwartz, briandfoy, Tom Phoenix is a book with a lot of history. Huge parts of its contents stem from 1993 and have a very outdated style of Perl. 8th Edition (2021) tries to upgrade this somewhat, but did not to so with enough diligence to permit me to recommend it. Some specific issues:
-
-* strict and warnings are not higlighted at all. Code is generally written as if strict and warnings are off. strict is first mentioned on page 72 in chapter 4.8. warnings are mentioned on page 28 in chapter 2.3. It recommends using -w, and only mentions that `use warnings;` has advantages.
-* On later pages in the book code examples generally act as if there was no strict present.
-* The first filehandles encountered are of the bareword kind. Others have written mounds on why this is not a wise choice and i do not think this should be one of the first things a newbie sees.
-* The very first code example touted as a real Perl program is this:<pre>
-     #!/usr/bin/perl
-     @lines = \`perldoc -u -f atan2\`;
-     foreach (@lines) {
-         s/\w<([^>]+)>/\U$1/g;
-         print;
-     }</pre>
-
-Corrections and additions are, as everywhere else here, very welcome.
+Moved to [[learning_perl_bdfoy]].
