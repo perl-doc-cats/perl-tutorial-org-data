@@ -12,4 +12,4 @@ Here are tutorials that have been looked over and can't be recommended for sever
 
 * www.tutorialspoint.com/perl/ - 2013-02-27: teaches Perl 5.1 in a very outdated style and violates almost all of [[learn]]
 
-* [[Learning Perl 6th Edition|rejected/learning_perl_6th]] - 2013-07-23
+* [[Learning Perl 8th Edition (Schwartz, briandfoy, Phoenix)|rejected/learning_perl_bdfoy]] - 2021-07
